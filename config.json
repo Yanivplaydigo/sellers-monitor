@@ -96,10 +96,10 @@
       "key": "nexxen",
       "name": "Nexxen",
       "urls": [
+        "https://unrulymedia.com/sellers.json",
         "https://nexxen.com/sellers.json",
         "https://www.nexxen.com/sellers.json",
-        "https://www.tremorinternational.com/sellers.json",
-        "https://unrulymedia.com/sellers.json"
+        "https://www.tremorinternational.com/sellers.json"
       ]
     },
     {
@@ -139,9 +139,9 @@
       "key": "sovrn",
       "name": "Sovrn",
       "urls": [
-        "https://www.sovrn.com/sellers.json",
-        "https://sovrn.com/sellers.json",
-        "https://cdn.sovrn.com/sellers.json"
+        "https://www.lijit.com/sellers.json",
+        "https://lijit.com/sellers.json",
+        "https://sovrn.com/sellers.json"
       ]
     },
     {
@@ -187,14 +187,6 @@
       ]
     },
     {
-      "key": "kayzen",
-      "name": "Kayzen",
-      "urls": [
-        "https://kayzen.io/sellers.json",
-        "https://www.kayzen.io/sellers.json"
-      ]
-    },
-    {
       "key": "casai",
       "name": "CAS.ai",
       "urls": [
@@ -237,14 +229,6 @@
       ]
     },
     {
-      "key": "emodo",
-      "name": "Emodo",
-      "urls": [
-        "https://www.emodoinc.com/sellers.json",
-        "https://emodoinc.com/sellers.json"
-      ]
-    },
-    {
       "key": "eskimi",
       "name": "Eskimi",
       "urls": [
@@ -261,20 +245,13 @@
       ]
     },
     {
-      "key": "datawave",
-      "name": "DATAWAVE",
-      "urls": [
-        "https://datawave.io/sellers.json",
-        "https://www.datawave.io/sellers.json",
-        "https://datawave.ai/sellers.json"
-      ]
-    },
-    {
       "key": "openweb",
       "name": "OpenWeb",
       "urls": [
-        "https://www.openweb.com/sellers.json",
-        "https://openweb.com/sellers.json"
+        "https://www.spot.im/sellers.json",
+        "https://spot.im/sellers.json",
+        "https://ads.openweb.com/sellers.json",
+        "https://www.openweb.com/sellers.json"
       ]
     },
     {
@@ -299,14 +276,6 @@
       "urls": [
         "https://apester.com/sellers.json",
         "https://www.apester.com/sellers.json"
-      ]
-    },
-    {
-      "key": "teza",
-      "name": "Teza DSP",
-      "urls": [
-        "https://teza.ai/sellers.json",
-        "https://www.teza.ai/sellers.json"
       ]
     }
   ],

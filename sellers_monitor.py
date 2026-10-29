@@ -294,8 +294,8 @@ def write_dashboard(results, cfg):
         status.append(row)
     # keep SSPs that weren't part of this run (e.g. --only)
     ran = {s["key"] for s in status}
-    status += [s for k, s in old_status.items() if k not in ran]
     order = [s["key"] for s in cfg["ssps"]]
+    status += [s for k, s in old_status.items() if k not in ran and k in order]
     status.sort(key=lambda s: order.index(s["key"]) if s["key"] in order else 999)
     (DOCS_DATA / "status.json").write_text(json.dumps(
         {"generated_at": ts, "ssps": status}, ensure_ascii=False, indent=1), encoding="utf-8")
