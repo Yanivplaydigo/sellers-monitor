@@ -8,7 +8,7 @@
     {"key": "pubmatic",  "name": "PubMatic",                  "urls": ["https://cdn.pubmatic.com/sellers/data/sellers.json", "https://www.pubmatic.com/sellers.json"]},
     {"key": "medianet",  "name": "Media.net",                 "urls": ["https://www.media.net/sellers.json"]},
     {"key": "freewheel", "name": "FreeWheel",                 "urls": ["https://www.freewheel.com/sellers.json"]},
-    {"key": "zeta",      "name": "Zeta Global",               "urls": ["https://zetaglobal.com/sellers.json"]},
+    {"key": "zeta",      "name": "Zeta Global",               "urls": ["https://ssp.zetaglobal.net/sellers.json"]},
     {"key": "loopme",    "name": "LoopMe",                    "urls": ["https://loopme.ai/sellers.json", "https://loopme.com/sellers.json"]},
     {"key": "epsilon",   "name": "Epsilon (Conversant)",      "urls": ["https://cpe.conversantmedia.com/assets/sellers/sellers.json", "https://www.conversantmedia.com/sellers.json"]},
     {"key": "adform",    "name": "Adform",                    "urls": ["https://adform.com/sellers.json", "https://site.adform.com/sellers.json"]}
