@@ -1,0 +1,60 @@
+name: sellers.json monitor
+
+on:
+  schedule:
+    - cron: "47 4 * * *"      # daily, 04:47 UTC (11:47 Bangkok)
+  workflow_dispatch: {}        # "Run workflow" button for manual runs
+
+permissions:
+  contents: write              # lets the job commit reports/changes.csv
+
+concurrency:
+  group: sellers-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Snapshots are large (some SSPs list 100k+ sellers), so they live in the
+      # Actions cache instead of the git history.
+      - name: Restore last snapshots
+        uses: actions/cache/restore@v4
+        with:
+          path: state
+          key: sellers-state-${{ github.run_id }}
+          restore-keys: sellers-state-
+
+      - name: Run monitor
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+        run: python sellers_monitor.py
+
+      - name: Save snapshots
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: state
+          key: sellers-state-${{ github.run_id }}
+
+      - name: Commit change log
+        run: |
+          git config user.name "sellers-monitor"
+          git config user.email "sellers-monitor@users.noreply.github.com"
+          git add reports docs
+          git diff --cached --quiet || git commit -m "sellers.json monitor run $(date -u +%F)"
+          git push
