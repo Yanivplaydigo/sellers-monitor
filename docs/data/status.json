@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T09:04:32Z",
+ "generated_at": "2026-10-29T09:13:59Z",
  "ssps": [
   {
    "key": "magnite",
@@ -7,13 +7,14 @@
    "status": "ok",
    "url": "https://rubiconproject.com/sellers.json",
    "count": 3208,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": []
   },
   {
    "key": "xandr",
@@ -21,13 +22,21 @@
    "status": "ok",
    "url": "https://acdn.adnxs.com/sellers/1d/appnexus/sellers.json",
    "count": 1475,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "18005",
+     "name": "YAGGDIGO LTD",
+     "domain": "playdigo.com",
+     "type": "BOTH"
+    }
+   ]
   },
   {
    "key": "triplelift",
@@ -35,13 +44,27 @@
    "status": "ok",
    "url": "https://cdn.3lift.com/sellers.json",
    "count": 7980,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": "2026-10-29T09:04:32Z",
-   "added": 5,
+   "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "14814",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    },
+    {
+     "id": "14814-EB",
+     "name": "Playdigo (via EB Network)",
+     "domain": "google.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "openx",
@@ -49,13 +72,14 @@
    "status": "ok",
    "url": "https://assets.openx.com/sellers.json",
    "count": 7963,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": []
   },
   {
    "key": "equativ",
@@ -63,13 +87,21 @@
    "status": "ok",
    "url": "https://ced-ns.sascdn.com/iab/sellers.json",
    "count": 2733,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "4880",
+     "name": "playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "pubmatic",
@@ -77,13 +109,27 @@
    "status": "ok",
    "url": "https://cdn.pubmatic.com/sellers/data/sellers.json",
    "count": 6512,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "166409",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    },
+    {
+     "id": "166965",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "medianet",
@@ -91,13 +137,27 @@
    "status": "ok",
    "url": "https://www.media.net/sellers.json",
    "count": 2983,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "8CU76542S",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    },
+    {
+     "id": "8CUGG4P7J",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "freewheel",
@@ -105,27 +165,55 @@
    "status": "ok",
    "url": "https://www.freewheel.com/sellers.json",
    "count": 1878,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "534605",
+     "name": "Playdigo Inc",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    },
+    {
+     "id": "534605-r-523319",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    },
+    {
+     "id": "534605-r-524565",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "zeta",
    "name": "Zeta Global",
-   "status": "baseline",
+   "status": "ok",
    "url": "https://ssp.zetaglobal.net/sellers.json",
    "count": 155,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "808",
+     "name": "Playdigo Inc",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "loopme",
@@ -133,13 +221,21 @@
    "status": "ok",
    "url": "https://loopme.ai/sellers.json",
    "count": 8375,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "12861",
+     "name": "PLAYDIGO INC.",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "epsilon",
@@ -147,13 +243,21 @@
    "status": "ok",
    "url": "https://cpe.conversantmedia.com/assets/sellers/sellers.json",
    "count": 1120,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "100664",
+     "name": "Playdigo Inc",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   },
   {
    "key": "adform",
@@ -161,13 +265,21 @@
    "status": "ok",
    "url": "https://adform.com/sellers.json",
    "count": 683,
-   "last_checked": "2026-10-29T09:04:32Z",
-   "last_ok": "2026-10-29T09:04:32Z",
+   "last_checked": "2026-10-29T09:13:59Z",
+   "last_ok": "2026-10-29T09:13:59Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
    "changed": 0,
-   "error": ""
+   "error": "",
+   "ours": [
+    {
+     "id": "3214",
+     "name": "Playdigo Inc",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
   }
  ]
 }
