@@ -74,7 +74,7 @@ a:hover{text-decoration:underline}
   <div class="card">
     <h2>SSPs</h2>
     <div class="scroll"><table>
-      <thead><tr><th>SSP</th><th>Status</th><th class="num">Sellers</th><th class="num">Last run +/−/~</th><th>Last change</th><th>Last checked</th><th>Source</th></tr></thead>
+      <thead><tr><th>SSP</th><th>Status</th><th class="num">Sellers</th><th>Playdigo / Yaggdigo ID</th><th class="num">Last run +/−/~</th><th>Last change</th><th>Last checked</th><th>Source</th></tr></thead>
       <tbody id="sspBody"></tbody>
     </table></div>
   </div>
@@ -124,17 +124,24 @@ async function load() {
 }
 
 function renderStatus() {
-  if (!status) { $("updated").textContent = "No data yet: run the workflow once."; $("sspBody").innerHTML = '<tr><td colspan="7" class="empty">No runs yet</td></tr>'; return; }
+  if (!status) { $("updated").textContent = "No data yet: run the workflow once."; $("sspBody").innerHTML = '<tr><td colspan="8" class="empty">No runs yet</td></tr>'; return; }
   $("updated").textContent = "Last run: " + fmtT(status.generated_at);
   const label = {ok:"OK", baseline:"Baseline saved", error:"Download failed", anomaly:"Ignored bad file"};
   $("sspBody").innerHTML = status.ssps.map(s => `<tr>
     <td><b>${esc(s.name)}</b></td>
     <td class="st-${s.status}" title="${esc(s.error)}">${label[s.status] || s.status}${s.error ? " ⓘ" : ""}</td>
     <td class="num">${fmtN(s.count)}</td>
+    <td>${ours(s.ours)}</td>
     <td class="num">${s.status === "ok" ? `<span style="color:var(--add)">+${s.added}</span> / <span style="color:var(--rem)">−${s.removed}</span> / <span style="color:var(--chg)">~${s.changed}</span>` : "–"}</td>
     <td>${fmtT(s.last_change)}</td>
     <td>${fmtT(s.last_checked)}</td>
     <td>${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">sellers.json</a>` : "–"}</td></tr>`).join("");
+}
+
+function ours(list) {
+  if (list == null) return '<span class="muted">–</span>';
+  if (!list.length) return '<span class="muted">Not listed</span>';
+  return list.map(o => `<span class="ours" title="${esc(o.name)} · ${esc(o.domain)}"><b>${esc(o.id)}</b> <span class="muted">${esc(o.name)} · ${esc((o.type || "").toLowerCase())}</span></span>`).join("<br>");
 }
 
 function renderKpis() {
