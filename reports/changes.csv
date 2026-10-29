@@ -7,3 +7,6 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-10-29,OpenX,added,643390590,PT Liputan Enam Dot Com,kapanlagi.com,PUBLISHER,0,
 2026-10-29,Sharethrough,added,6023-OB,Valnet2026 (via OB),google.com,INTERMEDIARY,0,
 2026-10-29,Sharethrough,added,6068,Google OB Aggregated,google.com,INTERMEDIARY,0,
+2026-10-29,Sharethrough,removed,6023-OB,Valnet2026 (via OB),google.com,INTERMEDIARY,0,
+2026-10-29,Sharethrough,removed,6068,Google OB Aggregated,google.com,INTERMEDIARY,0,
+2026-10-29,PubNative,added,1018403,Viber,viber.com,PUBLISHER,0,
