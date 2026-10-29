@@ -154,6 +154,16 @@ def is_watched(recs, cfg):
     return False
 
 
+def find_ours(sellers, cfg):
+    """Our own entries (watch list) in an SSP's sellers.json."""
+    out = []
+    for sid, recs in sellers.items():
+        for rec in recs:
+            if is_watched([rec], cfg):
+                out.append({"id": sid, "name": rec[0], "domain": rec[1], "type": rec[2]})
+    return sorted(out, key=lambda o: o["id"])
+
+
 # ---------------------------------------------------------------- reporting
 def now_iso():
     return dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -276,6 +286,7 @@ def write_dashboard(results, cfg):
                      (f"seller count dropped {r.get('old_count')} → {r.get('new_count')} (ignored)"
                       if r["status"] == "anomaly" else ""),
         }
+        row["ours"] = r["ours"] if "ours" in r else prev.get("ours")
         if r["status"] == "ok":
             row.update(added=len(r["added"]), removed=len(r["removed"]), changed=len(r["changed"]))
             if r["added"] or r["removed"] or r["changed"]:
@@ -368,6 +379,7 @@ def run(args):
             continue
         new = normalize(data)
         r["new_count"] = len(new)
+        r["ours"] = find_ours(new, cfg)
         if prev is None:
             r["status"] = "baseline"
         else:
