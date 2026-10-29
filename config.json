@@ -245,16 +245,6 @@
       ]
     },
     {
-      "key": "openweb",
-      "name": "OpenWeb",
-      "urls": [
-        "https://www.spot.im/sellers.json",
-        "https://spot.im/sellers.json",
-        "https://ads.openweb.com/sellers.json",
-        "https://www.openweb.com/sellers.json"
-      ]
-    },
-    {
       "key": "adagio",
       "name": "Adagio",
       "urls": [
