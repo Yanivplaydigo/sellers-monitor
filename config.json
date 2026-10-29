@@ -278,107 +278,11 @@
       ]
     },
     {
-      "key": "google",
-      "name": "Google (AdX)",
-      "urls": [
-        "https://storage.googleapis.com/adx-rtb-dictionaries/sellers.json",
-        "https://www.google.com/sellers.json"
-      ]
-    },
-    {
-      "key": "amazon",
-      "name": "Amazon (APS)",
-      "urls": [
-        "https://aps.amazon.com/sellers.json",
-        "https://www.amazon-adsystem.com/sellers.json",
-        "https://amazon-adsystem.com/sellers.json"
-      ]
-    },
-    {
-      "key": "unity",
-      "name": "Unity / ironSource",
-      "urls": [
-        "https://www.is.com/sellers.json",
-        "https://unity.com/sellers.json",
-        "https://www.unity.com/sellers.json",
-        "https://ironsrc.com/sellers.json"
-      ]
-    },
-    {
-      "key": "applovin",
-      "name": "AppLovin",
-      "urls": [
-        "https://www.applovin.com/sellers.json",
-        "https://applovin.com/sellers.json"
-      ]
-    },
-    {
-      "key": "mintegral",
-      "name": "Mintegral",
-      "urls": [
-        "https://www.mintegral.com/sellers.json",
-        "https://mintegral.com/sellers.json"
-      ]
-    },
-    {
-      "key": "liftoff",
-      "name": "Liftoff (Vungle)",
-      "urls": [
-        "https://vungle.com/sellers.json",
-        "https://www.vungle.com/sellers.json",
-        "https://liftoff.io/sellers.json",
-        "https://www.liftoff.io/sellers.json"
-      ]
-    },
-    {
-      "key": "digitalturbine",
-      "name": "Digital Turbine (DT Exchange)",
-      "urls": [
-        "https://www.digitalturbine.com/sellers.json",
-        "https://digitalturbine.com/sellers.json",
-        "https://fyber.com/sellers.json",
-        "https://inner-active.com/sellers.json"
-      ]
-    },
-    {
-      "key": "teads",
-      "name": "Teads",
-      "urls": [
-        "https://teads.com/sellers.json",
-        "https://www.teads.com/sellers.json",
-        "https://teads.tv/sellers.json"
-      ]
-    },
-    {
-      "key": "gumgum",
-      "name": "GumGum",
-      "urls": [
-        "https://gumgum.com/sellers.json",
-        "https://www.gumgum.com/sellers.json"
-      ]
-    },
-    {
-      "key": "kargo",
-      "name": "Kargo",
-      "urls": [
-        "https://kargo.com/sellers.json",
-        "https://www.kargo.com/sellers.json"
-      ]
-    },
-    {
       "key": "yieldmo",
       "name": "Yieldmo",
       "urls": [
         "https://yieldmo.com/sellers.json",
         "https://www.yieldmo.com/sellers.json"
-      ]
-    },
-    {
-      "key": "mobilefuse",
-      "name": "MobileFuse",
-      "urls": [
-        "https://mobilefuse.com/sellers.json",
-        "https://www.mobilefuse.com/sellers.json"
       ]
     }
   ],
