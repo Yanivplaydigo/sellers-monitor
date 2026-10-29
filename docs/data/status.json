@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T09:13:59Z",
+ "generated_at": "2026-10-29T09:27:27Z",
  "ssps": [
   {
    "key": "magnite",
@@ -7,8 +7,8 @@
    "status": "ok",
    "url": "https://rubiconproject.com/sellers.json",
    "count": 3208,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -22,8 +22,8 @@
    "status": "ok",
    "url": "https://acdn.adnxs.com/sellers/1d/appnexus/sellers.json",
    "count": 1475,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -44,8 +44,8 @@
    "status": "ok",
    "url": "https://cdn.3lift.com/sellers.json",
    "count": 7980,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": "2026-10-29T09:04:32Z",
    "added": 0,
    "removed": 0,
@@ -72,8 +72,8 @@
    "status": "ok",
    "url": "https://assets.openx.com/sellers.json",
    "count": 7963,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -87,8 +87,8 @@
    "status": "ok",
    "url": "https://ced-ns.sascdn.com/iab/sellers.json",
    "count": 2733,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -109,8 +109,8 @@
    "status": "ok",
    "url": "https://cdn.pubmatic.com/sellers/data/sellers.json",
    "count": 6512,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -137,8 +137,8 @@
    "status": "ok",
    "url": "https://www.media.net/sellers.json",
    "count": 2983,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -165,8 +165,8 @@
    "status": "ok",
    "url": "https://www.freewheel.com/sellers.json",
    "count": 1878,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -199,8 +199,8 @@
    "status": "ok",
    "url": "https://ssp.zetaglobal.net/sellers.json",
    "count": 155,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -221,8 +221,8 @@
    "status": "ok",
    "url": "https://loopme.ai/sellers.json",
    "count": 8375,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -243,8 +243,8 @@
    "status": "ok",
    "url": "https://cpe.conversantmedia.com/assets/sellers/sellers.json",
    "count": 1120,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -265,8 +265,8 @@
    "status": "ok",
    "url": "https://adform.com/sellers.json",
    "count": 683,
-   "last_checked": "2026-10-29T09:13:59Z",
-   "last_ok": "2026-10-29T09:13:59Z",
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
    "last_change": null,
    "added": 0,
    "removed": 0,
@@ -280,6 +280,527 @@
      "type": "INTERMEDIARY"
     }
    ]
+  },
+  {
+   "key": "nexxen",
+   "name": "Nexxen",
+   "status": "baseline",
+   "url": "https://unrulymedia.com/sellers.json",
+   "count": 1596,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "2099898025",
+     "name": "Playdigo Inc",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "consumable",
+   "name": "Consumable",
+   "status": "baseline",
+   "url": "https://consumable.com/sellers.json",
+   "count": 438,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "2001583",
+     "name": "Playdigo Inc",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "criteo",
+   "name": "Criteo",
+   "status": "baseline",
+   "url": "https://www.criteo.com/sellers.json",
+   "count": 1683,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "RABCQ1",
+     "name": "Playdigo Inc",
+     "domain": "playdigo.com",
+     "type": "BOTH"
+    }
+   ]
+  },
+  {
+   "key": "sonobi",
+   "name": "Sonobi",
+   "status": "baseline",
+   "url": "https://sonobi.com/sellers.json",
+   "count": 414,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "292d7cb147",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "brightmountain",
+   "name": "Bright Mountain Media",
+   "status": "baseline",
+   "url": "https://www.brightmountainmedia.com/sellers.json",
+   "count": 169,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "2686735",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "sovrn",
+   "name": "Sovrn",
+   "status": "error",
+   "url": null,
+   "count": null,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": null,
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "https://www.sovrn.com/sellers.json: HTTPError: HTTP Error 404: Not Found; https://sovrn.com/sellers.json: HTTPError: HTTP Error 404: Not Found; https://cdn.sovrn.com/sellers.json: HTTPError: HTTP Error 404: Not Found",
+   "ours": null
+  },
+  {
+   "key": "onetag",
+   "name": "OneTag",
+   "status": "baseline",
+   "url": "https://www.onetag.com/sellers.json",
+   "count": 2336,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "89211985ede1484",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "sharethrough",
+   "name": "Sharethrough",
+   "status": "baseline",
+   "url": "https://sharethrough.com/sellers.json",
+   "count": 5233,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "4880",
+     "name": "playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    },
+    {
+     "id": "CZ4W8fhF",
+     "name": "Playdigo - Prebid Server",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    },
+    {
+     "id": "f0oQSO2J",
+     "name": "Playdigo - oRTB",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "redmob",
+   "name": "Redmob",
+   "status": "baseline",
+   "url": "https://redmob.io/sellers.json",
+   "count": 161,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "20250722000001",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "verve",
+   "name": "Verve",
+   "status": "baseline",
+   "url": "https://verve.com/sellers.json",
+   "count": 734,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": []
+  },
+  {
+   "key": "smartyads",
+   "name": "SmartyAds",
+   "status": "baseline",
+   "url": "https://smartyads.com/sellers.json",
+   "count": 405,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "300229",
+     "name": "playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "kayzen",
+   "name": "Kayzen",
+   "status": "error",
+   "url": null,
+   "count": null,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": null,
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "https://kayzen.io/sellers.json: HTTPError: HTTP Error 404: Not Found; https://www.kayzen.io/sellers.json: HTTPError: HTTP Error 404: Not Found",
+   "ours": null
+  },
+  {
+   "key": "casai",
+   "name": "CAS.ai",
+   "status": "baseline",
+   "url": "https://cas.ai/sellers.json",
+   "count": 2114,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "2fe8d6cb",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "PUBLISHER"
+    }
+   ]
+  },
+  {
+   "key": "eplanning",
+   "name": "E-Planning",
+   "status": "baseline",
+   "url": "https://www.e-planning.net/sellers.json",
+   "count": 253,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "7db503aa8cbe560e",
+     "name": "PLAYDIGO INC",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "improvedigital",
+   "name": "Improve Digital",
+   "status": "baseline",
+   "url": "https://www.improvedigital.com/sellers.json",
+   "count": 19650,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "2542",
+     "name": "Playdigo, Inc.",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "inmobi",
+   "name": "InMobi",
+   "status": "baseline",
+   "url": "https://www.inmobi.com/sellers.json",
+   "count": 3220,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "e2ce6fad847d4642b368082d662cc088",
+     "name": "Playdigo, INC",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "ogury",
+   "name": "Ogury",
+   "status": "baseline",
+   "url": "https://ogury.com/sellers.json",
+   "count": 829,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": []
+  },
+  {
+   "key": "emodo",
+   "name": "Emodo",
+   "status": "error",
+   "url": null,
+   "count": null,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": null,
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "https://www.emodoinc.com/sellers.json: URLError: <urlopen error [Errno -2] Name or service not known>; https://emodoinc.com/sellers.json: HTTPError: HTTP Error 404: Not Found",
+   "ours": null
+  },
+  {
+   "key": "eskimi",
+   "name": "Eskimi",
+   "status": "baseline",
+   "url": "https://eskimi.com/sellers.json",
+   "count": 652,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "2020000214",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "adsyield",
+   "name": "Adsyield",
+   "status": "baseline",
+   "url": "https://adsyield.com/sellers.json",
+   "count": 171,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": []
+  },
+  {
+   "key": "datawave",
+   "name": "DATAWAVE",
+   "status": "error",
+   "url": null,
+   "count": null,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": null,
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "https://datawave.io/sellers.json: JSONDecodeError: Expecting value: line 1 column 1 (char 0); https://www.datawave.io/sellers.json: JSONDecodeError: Expecting value: line 1 column 1 (char 0); https://datawave.ai/sellers.json: HTTPError: HTTP Error 404: Not Found",
+   "ours": null
+  },
+  {
+   "key": "openweb",
+   "name": "OpenWeb",
+   "status": "error",
+   "url": null,
+   "count": null,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": null,
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "https://www.openweb.com/sellers.json: HTTPError: HTTP Error 404: Not Found; https://openweb.com/sellers.json: HTTPError: HTTP Error 404: Not Found",
+   "ours": null
+  },
+  {
+   "key": "adagio",
+   "name": "Adagio",
+   "status": "baseline",
+   "url": "https://adagio.io/sellers.json",
+   "count": 1138,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "1640",
+     "name": "Playdigo, Inc.",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "33across",
+   "name": "33Across",
+   "status": "baseline",
+   "url": "https://www.33across.com/sellers.json",
+   "count": 2178,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "001Pg0000197KcKIAU",
+     "name": "Playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "apester",
+   "name": "Apester",
+   "status": "baseline",
+   "url": "https://apester.com/sellers.json",
+   "count": 395,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": "2026-10-29T09:27:27Z",
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "",
+   "ours": [
+    {
+     "id": "1502",
+     "name": "playdigo",
+     "domain": "playdigo.com",
+     "type": "INTERMEDIARY"
+    }
+   ]
+  },
+  {
+   "key": "teza",
+   "name": "Teza DSP",
+   "status": "error",
+   "url": null,
+   "count": null,
+   "last_checked": "2026-10-29T09:27:27Z",
+   "last_ok": null,
+   "last_change": null,
+   "added": 0,
+   "removed": 0,
+   "changed": 0,
+   "error": "https://teza.ai/sellers.json: JSONDecodeError: Expecting value: line 1 column 1 (char 0); https://www.teza.ai/sellers.json: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "ours": null
   }
  ]
 }
