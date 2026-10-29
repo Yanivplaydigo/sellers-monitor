@@ -1,0 +1,22 @@
+{
+  "ssps": [
+    {"key": "magnite",   "name": "Magnite (Rubicon Project)", "urls": ["https://rubiconproject.com/sellers.json"]},
+    {"key": "xandr",     "name": "Xandr (AppNexus)",          "urls": ["https://acdn.adnxs.com/sellers/1d/appnexus/sellers.json", "https://xandr.com/sellers.json"]},
+    {"key": "triplelift","name": "TripleLift",                "urls": ["https://cdn.3lift.com/sellers.json", "https://triplelift.com/sellers.json"]},
+    {"key": "openx",     "name": "OpenX",                     "urls": ["https://assets.openx.com/sellers.json", "https://openx.com/sellers.json"]},
+    {"key": "equativ",   "name": "Equativ",                   "urls": ["https://ced-ns.sascdn.com/iab/sellers.json", "https://equativ.com/sellers.json"]},
+    {"key": "pubmatic",  "name": "PubMatic",                  "urls": ["https://cdn.pubmatic.com/sellers/data/sellers.json", "https://www.pubmatic.com/sellers.json"]},
+    {"key": "medianet",  "name": "Media.net",                 "urls": ["https://www.media.net/sellers.json"]},
+    {"key": "freewheel", "name": "FreeWheel",                 "urls": ["https://www.freewheel.com/sellers.json"]},
+    {"key": "zeta",      "name": "Zeta Global",               "urls": ["https://zetaglobal.com/sellers.json"]},
+    {"key": "loopme",    "name": "LoopMe",                    "urls": ["https://loopme.ai/sellers.json", "https://loopme.com/sellers.json"]},
+    {"key": "epsilon",   "name": "Epsilon (Conversant)",      "urls": ["https://cpe.conversantmedia.com/assets/sellers/sellers.json", "https://www.conversantmedia.com/sellers.json"]},
+    {"key": "adform",    "name": "Adform",                    "urls": ["https://adform.com/sellers.json", "https://site.adform.com/sellers.json"]}
+  ],
+  "watch_domains": ["playdigo.com"],
+  "watch_names": ["playdigo", "yaggdigo"],
+  "max_drop_ratio": 0.5,
+  "notify_when_no_changes": false,
+  "max_items_per_list": 15,
+  "dashboard_history_days": 180
+}
