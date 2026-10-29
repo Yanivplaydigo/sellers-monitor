@@ -249,6 +249,33 @@
         "https://apester.com/sellers.json",
         "https://www.apester.com/sellers.json"
       ]
+    },
+    {
+      "key": "seedtag",
+      "name": "Seedtag",
+      "urls": [
+        "https://www.seedtag.com/sellers.json",
+        "https://seedtag.com/sellers.json"
+      ]
+    },
+    {
+      "key": "triton",
+      "name": "Triton Digital",
+      "urls": [
+        "https://www.tritondigital.com/sellers.json",
+        "https://tritondigital.com/sellers.json",
+        "https://tritonmedia.com/sellers.json",
+        "https://www.tirtonmedia.com/sellers.json"
+      ]
+    },
+    {
+      "key": "indexexchange",
+      "name": "Index Exchange",
+      "urls": [
+        "https://cdn.indexexchange.com/sellers.json",
+        "https://www.indexexchange.com/sellers.json",
+        "https://indexexchange.com/sellers.json"
+      ]
     }
   ],
   "watch_domains": [
