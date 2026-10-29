@@ -15,26 +15,24 @@
 ✅ Nexxen: no changes (1,596 sellers)
 ✅ Consumable: no changes (438 sellers)
 ✅ Criteo: no changes (1,683 sellers)
-⚠️ Sonobi: could not download sellers.json
+✅ Sonobi: no changes (414 sellers)
 ✅ Bright Mountain Media: no changes (169 sellers)
 ✅ Sovrn: no changes (7,355 sellers)
 ✅ OneTag: no changes (2,336 sellers)
-✅ Sharethrough: no changes (5,233 sellers)
-✅ Redmob: no changes (161 sellers)
-✅ Verve: no changes (734 sellers)
+🔔 Sharethrough: +2 added, −0 removed, ~0 changed (5,233 → 5,235)
+🆕 Smaato: baseline saved (2,929 sellers) — https://www.smaato.com/sellers.json
+🆕 PubNative: baseline saved (2,886 sellers) — https://pubnative.net/sellers.json
 ✅ SmartyAds: no changes (405 sellers)
-✅ CAS.ai: no changes (2,114 sellers)
 ✅ E-Planning: no changes (253 sellers)
 ✅ Improve Digital: no changes (19,650 sellers)
 ✅ InMobi: no changes (3,220 sellers)
 ✅ Ogury: no changes (829 sellers)
 ✅ Eskimi: no changes (652 sellers)
-✅ Adsyield: no changes (171 sellers)
 ✅ Adagio: no changes (1,138 sellers)
 ✅ 33Across: no changes (2,178 sellers)
 ✅ Apester: no changes (395 sellers)
 
-### ⚠️ Sonobi
-Download failed — kept previous snapshot.
-- https://sonobi.com/sellers.json: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-- https://www.sonobi.com/sellers.json: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+### Sharethrough
+*Added (2)*
+• `6023-OB` Valnet2026 (via OB) | google.com | INTERMEDIARY
+• `6068` Google OB Aggregated | google.com | INTERMEDIARY
