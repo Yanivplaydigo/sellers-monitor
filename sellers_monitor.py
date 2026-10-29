@@ -33,6 +33,7 @@ import json
 import os
 import smtplib
 import sys
+import time
 import urllib.request
 from email.message import EmailMessage
 from pathlib import Path
@@ -65,11 +66,15 @@ def fetch_ssp(ssp, preferred=None):
         urls.remove(preferred)
         urls.insert(0, preferred)
     errors = []
-    for url in urls:
-        try:
-            return url, fetch_json(url), errors
-        except Exception as e:                   # noqa: BLE001
-            errors.append(f"{url}: {type(e).__name__}: {e}"[:300])
+    for attempt in range(2):                     # second pass retries transient failures
+        if attempt:
+            time.sleep(8)
+            errors = []
+        for url in urls:
+            try:
+                return url, fetch_json(url), errors
+            except Exception as e:               # noqa: BLE001
+                errors.append(f"{url}: {type(e).__name__}: {e}"[:300])
     return None, None, errors
 
 
