@@ -1,8 +1,8 @@
 # sellers.json monitor
 
-Checks the sellers.json of 47 SSPs and demand partners once a day. When sellers are **added**, **removed** or **changed** (name, domain, seller type, confidential flag), it posts to Slack and updates a **web dashboard**.
+Checks the sellers.json of 46 SSPs and demand partners once a day. When sellers are **added**, **removed** or **changed** (name, domain, seller type, confidential flag), it posts to Slack and updates a **web dashboard**.
 
-Partners: Magnite (Rubicon Project), Xandr (AppNexus), TripleLift, OpenX, Equativ, PubMatic, Media.net, FreeWheel, Zeta Global, LoopMe, Epsilon (Conversant), Adform, Nexxen, Consumable, Criteo, Sonobi, Bright Mountain Media, Sovrn, OneTag, Sharethrough, Smaato, PubNative, SmartyAds, E-Planning, Improve Digital, InMobi, Ogury, Eskimi, Adagio, 33Across, Apester, Seedtag, Triton Digital, Index Exchange, Google (AdX), Amazon (APS), Unity / ironSource, AppLovin, Mintegral, Liftoff (Vungle), Digital Turbine (DT Exchange), Teads, GumGum, Kargo, Yieldmo, MobileFuse, Bidswitch. Edit `config.json` to add or remove SSPs.
+Partners: Magnite (Rubicon Project), Xandr (AppNexus), TripleLift, OpenX, Equativ, PubMatic, Media.net, FreeWheel, Zeta Global, LoopMe, Epsilon (Conversant), Adform, Nexxen, Consumable, Criteo, Sonobi, Bright Mountain Media, Sovrn, OneTag, Sharethrough, Smaato, PubNative, SmartyAds, E-Planning, Improve Digital, InMobi, Ogury, Eskimi, Adagio, 33Across, Apester, Seedtag, Triton Digital, Index Exchange, Google (AdX), Amazon (APS), Unity / ironSource, AppLovin, Mintegral, Liftoff (Vungle), Digital Turbine (DT Exchange), Teads, GumGum, Kargo, Yieldmo, MobileFuse. Edit `config.json` to add or remove SSPs.
 
 ## What you get
 - **Dashboard** (`docs/index.html`, served by GitHub Pages) shows:

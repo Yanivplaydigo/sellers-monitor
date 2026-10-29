@@ -159,6 +159,14 @@ def is_watched(recs, cfg):
     return False
 
 
+def cap_for_log(items, cfg, recs_of):
+    """Keep every watch-list row plus the first N others (huge files like Google churn a lot)."""
+    n = cfg.get("max_logged_per_run", 500)
+    mine = [t for t in items if is_watched(recs_of(t), cfg)]
+    rest = [t for t in items if not is_watched(recs_of(t), cfg)]
+    return mine + rest[:n]
+
+
 def find_ours(sellers, cfg):
     """Our own entries (watch list) in an SSP's sellers.json."""
     out = []
@@ -248,11 +256,11 @@ def append_csv(results):
             if r["status"] != "ok":
                 continue
             ssp = r["ssp"]["name"]
-            for kind, items in (("added", r["added"]), ("removed", r["removed"])):
+            for kind, items in (("added", r["added_log"]), ("removed", r["removed_log"])):
                 for sid, recs in items:
                     for rec in recs:
                         w.writerow([date, ssp, kind, sid, *rec, ""])
-            for sid, o, n in r["changed"]:
+            for sid, o, n in r["changed_log"]:
                 rec = n[0]
                 w.writerow([date, ssp, "changed", sid, *rec, change_details(o, n)])
 
@@ -314,11 +322,11 @@ def write_dashboard(results, cfg):
             return {"date": date, "ssp": ssp, "change": kind, "seller_id": sid,
                     "name": rec[0], "domain": rec[1], "seller_type": rec[2],
                     "confidential": rec[3], "details": details, "watched": watched}
-        for kind, items in (("added", r["added"]), ("removed", r["removed"])):
+        for kind, items in (("added", r["added_log"]), ("removed", r["removed_log"])):
             for sid, recs in items:
                 w = is_watched(recs, cfg)
                 hist += [row(kind, sid, rec, "", w) for rec in recs]
-        for sid, o, n in r["changed"]:
+        for sid, o, n in r["changed_log"]:
             hist.append(row("changed", sid, n[0], change_details(o, n), is_watched(o + n, cfg)))
     cutoff = (dt.date.today() - dt.timedelta(days=cfg.get("dashboard_history_days", 180))).isoformat()
     hist = [h for h in hist if h["date"] >= cutoff]
@@ -397,6 +405,9 @@ def run(args):
                 continue
             r["status"] = "ok"
             r["added"], r["removed"], r["changed"] = diff(old, new)
+            r["added_log"] = cap_for_log(r["added"], cfg, lambda t: t[1])
+            r["removed_log"] = cap_for_log(r["removed"], cfg, lambda t: t[1])
+            r["changed_log"] = cap_for_log(r["changed"], cfg, lambda t: t[1] + t[2])
         if not args.dry_run:
             save_state(ssp["key"], url, new)
         results.append(r)

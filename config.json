@@ -380,14 +380,6 @@
         "https://mobilefuse.com/sellers.json",
         "https://www.mobilefuse.com/sellers.json"
       ]
-    },
-    {
-      "key": "bidswitch",
-      "name": "Bidswitch",
-      "urls": [
-        "https://www.bidswitch.com/sellers.json",
-        "https://bidswitch.com/sellers.json"
-      ]
     }
   ],
   "watch_domains": [
@@ -400,5 +392,6 @@
   "max_drop_ratio": 0.5,
   "notify_when_no_changes": false,
   "max_items_per_list": 15,
-  "dashboard_history_days": 180
+  "dashboard_history_days": 180,
+  "max_logged_per_run": 500
 }
