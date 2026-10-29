@@ -161,21 +161,19 @@
       ]
     },
     {
-      "key": "redmob",
-      "name": "Redmob",
+      "key": "smaato",
+      "name": "Smaato",
       "urls": [
-        "https://redmob.ai/sellers.json",
-        "https://redmob.io/sellers.json",
-        "https://www.redmob.ai/sellers.json"
+        "https://www.smaato.com/sellers.json",
+        "https://smaato.com/sellers.json"
       ]
     },
     {
-      "key": "verve",
-      "name": "Verve",
+      "key": "pubnative",
+      "name": "PubNative",
       "urls": [
-        "https://verve.com/sellers.json",
-        "https://www.verve.com/sellers.json",
-        "https://pubnative.net/sellers.json"
+        "https://pubnative.net/sellers.json",
+        "https://www.pubnative.net/sellers.json"
       ]
     },
     {
@@ -184,14 +182,6 @@
       "urls": [
         "https://smartyads.com/sellers.json",
         "https://www.smartyads.com/sellers.json"
-      ]
-    },
-    {
-      "key": "casai",
-      "name": "CAS.ai",
-      "urls": [
-        "https://cas.ai/sellers.json",
-        "https://www.cas.ai/sellers.json"
       ]
     },
     {
@@ -234,14 +224,6 @@
       "urls": [
         "https://eskimi.com/sellers.json",
         "https://www.eskimi.com/sellers.json"
-      ]
-    },
-    {
-      "key": "adsyield",
-      "name": "Adsyield",
-      "urls": [
-        "https://adsyield.com/sellers.json",
-        "https://www.adsyield.com/sellers.json"
       ]
     },
     {

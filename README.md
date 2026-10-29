@@ -1,8 +1,8 @@
 # sellers.json monitor
 
-Checks the sellers.json of 33 SSPs and demand partners once a day. When sellers are **added**, **removed** or **changed** (name, domain, seller type, confidential flag), it posts to Slack and updates a **web dashboard**.
+Checks the sellers.json of 31 SSPs and demand partners once a day. When sellers are **added**, **removed** or **changed** (name, domain, seller type, confidential flag), it posts to Slack and updates a **web dashboard**.
 
-Partners: Magnite (Rubicon Project), Xandr (AppNexus), TripleLift, OpenX, Equativ, PubMatic, Media.net, FreeWheel, Zeta Global, LoopMe, Epsilon (Conversant), Adform, Nexxen, Consumable, Criteo, Sonobi, Bright Mountain Media, Sovrn, OneTag, Sharethrough, Redmob, Verve, SmartyAds, CAS.ai, E-Planning, Improve Digital, InMobi, Ogury, Eskimi, Adsyield, Adagio, 33Across, Apester. Edit `config.json` to add or remove SSPs.
+Partners: Magnite (Rubicon Project), Xandr (AppNexus), TripleLift, OpenX, Equativ, PubMatic, Media.net, FreeWheel, Zeta Global, LoopMe, Epsilon (Conversant), Adform, Nexxen, Consumable, Criteo, Sonobi, Bright Mountain Media, Sovrn, OneTag, Sharethrough, Smaato, PubNative, SmartyAds, E-Planning, Improve Digital, InMobi, Ogury, Eskimi, Adagio, 33Across, Apester. Edit `config.json` to add or remove SSPs.
 
 ## What you get
 - **Dashboard** (`docs/index.html`, served by GitHub Pages) shows:
