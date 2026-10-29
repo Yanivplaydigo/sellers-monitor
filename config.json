@@ -1,20 +1,322 @@
 {
   "ssps": [
-    {"key": "magnite",   "name": "Magnite (Rubicon Project)", "urls": ["https://rubiconproject.com/sellers.json"]},
-    {"key": "xandr",     "name": "Xandr (AppNexus)",          "urls": ["https://acdn.adnxs.com/sellers/1d/appnexus/sellers.json", "https://xandr.com/sellers.json"]},
-    {"key": "triplelift","name": "TripleLift",                "urls": ["https://cdn.3lift.com/sellers.json", "https://triplelift.com/sellers.json"]},
-    {"key": "openx",     "name": "OpenX",                     "urls": ["https://assets.openx.com/sellers.json", "https://openx.com/sellers.json"]},
-    {"key": "equativ",   "name": "Equativ",                   "urls": ["https://ced-ns.sascdn.com/iab/sellers.json", "https://equativ.com/sellers.json"]},
-    {"key": "pubmatic",  "name": "PubMatic",                  "urls": ["https://cdn.pubmatic.com/sellers/data/sellers.json", "https://www.pubmatic.com/sellers.json"]},
-    {"key": "medianet",  "name": "Media.net",                 "urls": ["https://www.media.net/sellers.json"]},
-    {"key": "freewheel", "name": "FreeWheel",                 "urls": ["https://www.freewheel.com/sellers.json"]},
-    {"key": "zeta",      "name": "Zeta Global",               "urls": ["https://ssp.zetaglobal.net/sellers.json"]},
-    {"key": "loopme",    "name": "LoopMe",                    "urls": ["https://loopme.ai/sellers.json", "https://loopme.com/sellers.json"]},
-    {"key": "epsilon",   "name": "Epsilon (Conversant)",      "urls": ["https://cpe.conversantmedia.com/assets/sellers/sellers.json", "https://www.conversantmedia.com/sellers.json"]},
-    {"key": "adform",    "name": "Adform",                    "urls": ["https://adform.com/sellers.json", "https://site.adform.com/sellers.json"]}
+    {
+      "key": "magnite",
+      "name": "Magnite (Rubicon Project)",
+      "urls": [
+        "https://rubiconproject.com/sellers.json"
+      ]
+    },
+    {
+      "key": "xandr",
+      "name": "Xandr (AppNexus)",
+      "urls": [
+        "https://acdn.adnxs.com/sellers/1d/appnexus/sellers.json",
+        "https://xandr.com/sellers.json"
+      ]
+    },
+    {
+      "key": "triplelift",
+      "name": "TripleLift",
+      "urls": [
+        "https://cdn.3lift.com/sellers.json",
+        "https://triplelift.com/sellers.json"
+      ]
+    },
+    {
+      "key": "openx",
+      "name": "OpenX",
+      "urls": [
+        "https://assets.openx.com/sellers.json",
+        "https://openx.com/sellers.json"
+      ]
+    },
+    {
+      "key": "equativ",
+      "name": "Equativ",
+      "urls": [
+        "https://ced-ns.sascdn.com/iab/sellers.json",
+        "https://equativ.com/sellers.json"
+      ]
+    },
+    {
+      "key": "pubmatic",
+      "name": "PubMatic",
+      "urls": [
+        "https://cdn.pubmatic.com/sellers/data/sellers.json",
+        "https://www.pubmatic.com/sellers.json"
+      ]
+    },
+    {
+      "key": "medianet",
+      "name": "Media.net",
+      "urls": [
+        "https://www.media.net/sellers.json"
+      ]
+    },
+    {
+      "key": "freewheel",
+      "name": "FreeWheel",
+      "urls": [
+        "https://www.freewheel.com/sellers.json"
+      ]
+    },
+    {
+      "key": "zeta",
+      "name": "Zeta Global",
+      "urls": [
+        "https://ssp.zetaglobal.net/sellers.json"
+      ]
+    },
+    {
+      "key": "loopme",
+      "name": "LoopMe",
+      "urls": [
+        "https://loopme.ai/sellers.json",
+        "https://loopme.com/sellers.json"
+      ]
+    },
+    {
+      "key": "epsilon",
+      "name": "Epsilon (Conversant)",
+      "urls": [
+        "https://cpe.conversantmedia.com/assets/sellers/sellers.json",
+        "https://www.conversantmedia.com/sellers.json"
+      ]
+    },
+    {
+      "key": "adform",
+      "name": "Adform",
+      "urls": [
+        "https://adform.com/sellers.json",
+        "https://site.adform.com/sellers.json"
+      ]
+    },
+    {
+      "key": "nexxen",
+      "name": "Nexxen",
+      "urls": [
+        "https://nexxen.com/sellers.json",
+        "https://www.nexxen.com/sellers.json",
+        "https://www.tremorinternational.com/sellers.json",
+        "https://unrulymedia.com/sellers.json"
+      ]
+    },
+    {
+      "key": "consumable",
+      "name": "Consumable",
+      "urls": [
+        "https://consumable.com/sellers.json",
+        "https://www.consumable.com/sellers.json"
+      ]
+    },
+    {
+      "key": "criteo",
+      "name": "Criteo",
+      "urls": [
+        "https://www.criteo.com/sellers.json",
+        "https://criteo.com/sellers.json",
+        "https://static.criteo.net/sellers.json"
+      ]
+    },
+    {
+      "key": "sonobi",
+      "name": "Sonobi",
+      "urls": [
+        "https://sonobi.com/sellers.json",
+        "https://www.sonobi.com/sellers.json"
+      ]
+    },
+    {
+      "key": "brightmountain",
+      "name": "Bright Mountain Media",
+      "urls": [
+        "https://www.brightmountainmedia.com/sellers.json",
+        "https://brightmountainmedia.com/sellers.json"
+      ]
+    },
+    {
+      "key": "sovrn",
+      "name": "Sovrn",
+      "urls": [
+        "https://www.sovrn.com/sellers.json",
+        "https://sovrn.com/sellers.json",
+        "https://cdn.sovrn.com/sellers.json"
+      ]
+    },
+    {
+      "key": "onetag",
+      "name": "OneTag",
+      "urls": [
+        "https://www.onetag.com/sellers.json",
+        "https://onetag.com/sellers.json"
+      ]
+    },
+    {
+      "key": "sharethrough",
+      "name": "Sharethrough",
+      "urls": [
+        "https://sharethrough.com/sellers.json",
+        "https://www.sharethrough.com/sellers.json"
+      ]
+    },
+    {
+      "key": "redmob",
+      "name": "Redmob",
+      "urls": [
+        "https://redmob.ai/sellers.json",
+        "https://redmob.io/sellers.json",
+        "https://www.redmob.ai/sellers.json"
+      ]
+    },
+    {
+      "key": "verve",
+      "name": "Verve",
+      "urls": [
+        "https://verve.com/sellers.json",
+        "https://www.verve.com/sellers.json",
+        "https://pubnative.net/sellers.json"
+      ]
+    },
+    {
+      "key": "smartyads",
+      "name": "SmartyAds",
+      "urls": [
+        "https://smartyads.com/sellers.json",
+        "https://www.smartyads.com/sellers.json"
+      ]
+    },
+    {
+      "key": "kayzen",
+      "name": "Kayzen",
+      "urls": [
+        "https://kayzen.io/sellers.json",
+        "https://www.kayzen.io/sellers.json"
+      ]
+    },
+    {
+      "key": "casai",
+      "name": "CAS.ai",
+      "urls": [
+        "https://cas.ai/sellers.json",
+        "https://www.cas.ai/sellers.json"
+      ]
+    },
+    {
+      "key": "eplanning",
+      "name": "E-Planning",
+      "urls": [
+        "https://www.e-planning.net/sellers.json",
+        "https://e-planning.net/sellers.json",
+        "https://us.e-planning.net/sellers.json"
+      ]
+    },
+    {
+      "key": "improvedigital",
+      "name": "Improve Digital",
+      "urls": [
+        "https://www.improvedigital.com/sellers.json",
+        "https://improvedigital.com/sellers.json",
+        "https://sellers.improvedigital.com/sellers.json"
+      ]
+    },
+    {
+      "key": "inmobi",
+      "name": "InMobi",
+      "urls": [
+        "https://www.inmobi.com/sellers.json",
+        "https://inmobi.com/sellers.json"
+      ]
+    },
+    {
+      "key": "ogury",
+      "name": "Ogury",
+      "urls": [
+        "https://ogury.com/sellers.json",
+        "https://www.ogury.com/sellers.json"
+      ]
+    },
+    {
+      "key": "emodo",
+      "name": "Emodo",
+      "urls": [
+        "https://www.emodoinc.com/sellers.json",
+        "https://emodoinc.com/sellers.json"
+      ]
+    },
+    {
+      "key": "eskimi",
+      "name": "Eskimi",
+      "urls": [
+        "https://eskimi.com/sellers.json",
+        "https://www.eskimi.com/sellers.json"
+      ]
+    },
+    {
+      "key": "adsyield",
+      "name": "Adsyield",
+      "urls": [
+        "https://adsyield.com/sellers.json",
+        "https://www.adsyield.com/sellers.json"
+      ]
+    },
+    {
+      "key": "datawave",
+      "name": "DATAWAVE",
+      "urls": [
+        "https://datawave.io/sellers.json",
+        "https://www.datawave.io/sellers.json",
+        "https://datawave.ai/sellers.json"
+      ]
+    },
+    {
+      "key": "openweb",
+      "name": "OpenWeb",
+      "urls": [
+        "https://www.openweb.com/sellers.json",
+        "https://openweb.com/sellers.json"
+      ]
+    },
+    {
+      "key": "adagio",
+      "name": "Adagio",
+      "urls": [
+        "https://adagio.io/sellers.json",
+        "https://www.adagio.io/sellers.json"
+      ]
+    },
+    {
+      "key": "33across",
+      "name": "33Across",
+      "urls": [
+        "https://www.33across.com/sellers.json",
+        "https://33across.com/sellers.json"
+      ]
+    },
+    {
+      "key": "apester",
+      "name": "Apester",
+      "urls": [
+        "https://apester.com/sellers.json",
+        "https://www.apester.com/sellers.json"
+      ]
+    },
+    {
+      "key": "teza",
+      "name": "Teza DSP",
+      "urls": [
+        "https://teza.ai/sellers.json",
+        "https://www.teza.ai/sellers.json"
+      ]
+    }
   ],
-  "watch_domains": ["playdigo.com"],
-  "watch_names": ["playdigo", "yaggdigo"],
+  "watch_domains": [
+    "playdigo.com"
+  ],
+  "watch_names": [
+    "playdigo",
+    "yaggdigo"
+  ],
   "max_drop_ratio": 0.5,
   "notify_when_no_changes": false,
   "max_items_per_list": 15,

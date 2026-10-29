@@ -46,7 +46,7 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 
 
 # ---------------------------------------------------------------- fetching
-def fetch_json(url, timeout=180):
+def fetch_json(url, timeout=60):
     req = urllib.request.Request(url, headers={
         "User-Agent": UA, "Accept": "application/json,*" "/*", "Accept-Encoding": "gzip"})
     with urllib.request.urlopen(req, timeout=timeout) as r:

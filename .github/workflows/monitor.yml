@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "47 4 * * *"      # daily, 04:47 UTC (11:47 Bangkok)
   workflow_dispatch: {}        # "Run workflow" button for manual runs
+  push:                        # run right away when the SSP list or code changes
+    branches: [main]
+    paths: [config.json, sellers_monitor.py]
 
 permissions:
   contents: write              # lets the job commit reports/changes.csv
