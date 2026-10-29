@@ -1,1 +1,6 @@
 date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
+2026-10-29,TripleLift,added,14918,PGAM,pgammedia.com,PUBLISHER,0,
+2026-10-29,TripleLift,added,14920,Sipo,sipo-inc.com,PUBLISHER,0,
+2026-10-29,TripleLift,added,14920-EB,Sipo (via EB Network),google.com,INTERMEDIARY,0,
+2026-10-29,TripleLift,added,14921,Bumble,badoo.com,PUBLISHER,0,
+2026-10-29,TripleLift,added,14921-EB,Bumble (via EB Network),google.com,INTERMEDIARY,0,

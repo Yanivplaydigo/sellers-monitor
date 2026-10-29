@@ -1,18 +1,22 @@
 *sellers.json monitor — 2026-10-29*
 
-🆕 Magnite (Rubicon Project): baseline saved (3,208 sellers) — https://rubiconproject.com/sellers.json
-🆕 Xandr (AppNexus): baseline saved (1,475 sellers) — https://acdn.adnxs.com/sellers/1d/appnexus/sellers.json
-🆕 TripleLift: baseline saved (7,975 sellers) — https://cdn.3lift.com/sellers.json
-🆕 OpenX: baseline saved (7,963 sellers) — https://assets.openx.com/sellers.json
-🆕 Equativ: baseline saved (2,733 sellers) — https://ced-ns.sascdn.com/iab/sellers.json
-🆕 PubMatic: baseline saved (6,512 sellers) — https://cdn.pubmatic.com/sellers/data/sellers.json
-🆕 Media.net: baseline saved (2,983 sellers) — https://www.media.net/sellers.json
-🆕 FreeWheel: baseline saved (1,878 sellers) — https://www.freewheel.com/sellers.json
-⚠️ Zeta Global: could not download sellers.json
-🆕 LoopMe: baseline saved (8,375 sellers) — https://loopme.ai/sellers.json
-🆕 Epsilon (Conversant): baseline saved (1,120 sellers) — https://cpe.conversantmedia.com/assets/sellers/sellers.json
-🆕 Adform: baseline saved (683 sellers) — https://adform.com/sellers.json
+✅ Magnite (Rubicon Project): no changes (3,208 sellers)
+✅ Xandr (AppNexus): no changes (1,475 sellers)
+🔔 TripleLift: +5 added, −0 removed, ~0 changed (7,975 → 7,980)
+✅ OpenX: no changes (7,963 sellers)
+✅ Equativ: no changes (2,733 sellers)
+✅ PubMatic: no changes (6,512 sellers)
+✅ Media.net: no changes (2,983 sellers)
+✅ FreeWheel: no changes (1,878 sellers)
+🆕 Zeta Global: baseline saved (155 sellers) — https://ssp.zetaglobal.net/sellers.json
+✅ LoopMe: no changes (8,375 sellers)
+✅ Epsilon (Conversant): no changes (1,120 sellers)
+✅ Adform: no changes (683 sellers)
 
-### ⚠️ Zeta Global
-Download failed — kept previous snapshot.
-- https://zetaglobal.com/sellers.json: HTTPError: HTTP Error 404: Not Found
+### TripleLift
+*Added (5)*
+• `14918` PGAM | pgammedia.com | PUBLISHER
+• `14920` Sipo | sipo-inc.com | PUBLISHER
+• `14920-EB` Sipo (via EB Network) | google.com | INTERMEDIARY
+• `14921` Bumble | badoo.com | PUBLISHER
+• `14921-EB` Bumble (via EB Network) | google.com | INTERMEDIARY
