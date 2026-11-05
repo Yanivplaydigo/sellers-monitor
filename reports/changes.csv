@@ -283,10 +283,6 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-10-30,Ogury,added,23bedc6c-1c22-474c-9ed2-3e62eeb466c2,Content Ignite Reseller,contentignite.com,INTERMEDIARY,0,
 2026-10-30,Ogury,added,dc51eb2f-0736-4fc0-bafc-87802d0f9b63,HIDESEEK GAMES LIMITED,hideseek.games,PUBLISHER,0,
 2026-10-30,Ogury,changed,689385bf-862c-4075-9b59-a80d82f9689f,PuzzlePlay Ltd,puzzleplay.app,PUBLISHER,0,name: 'PUZZLEPLAY LIMITED' → 'PuzzlePlay Ltd'
-2026-10-30,Eskimi,added,2020001337,Valuad,valuad.io,INTERMEDIARY,0,
-2026-10-30,Eskimi,added,2020001338,Pubsfusion,pubsfusion.com,INTERMEDIARY,0,
-2026-10-30,Eskimi,removed,2020000790,Primis,primis.tech,INTERMEDIARY,0,
-2026-10-30,Eskimi,changed,2020001305,Primis.tech,primis.tech,INTERMEDIARY,0,name: 'primis.tech' → 'Primis.tech'
 2026-10-30,Apester,added,1029,Bluex,bluexad.ai,PUBLISHER,0,
 2026-10-30,Seedtag,added,6aac0af471506f0007247e11,Vlion Inc,advlion.com,INTERMEDIARY,0,
 2026-10-30,Seedtag,changed,6a7cd2afa4393000079782f2,benefit,benefit.media,BOTH,0,seller_type: 'PUBLISHER' → 'BOTH'
@@ -1962,4 +1958,3 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-11-05,Media.net,removed,8CARIXSMQ,Algorix,algorix.co,INTERMEDIARY,0,
 2026-11-05,Sharethrough,added,5027-OB,ALO Media (via OB),google.com,INTERMEDIARY,0,
 2026-11-05,Sharethrough,added,6070-OB,Poder360 (via OB),google.com,INTERMEDIARY,0,
-2026-11-05,Eskimi,added,2020001339,Denakop,denakop.com,INTERMEDIARY,0,

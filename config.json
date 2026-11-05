@@ -211,14 +211,6 @@
       ]
     },
     {
-      "key": "eskimi",
-      "name": "Eskimi",
-      "urls": [
-        "https://eskimi.com/sellers.json",
-        "https://www.eskimi.com/sellers.json"
-      ]
-    },
-    {
       "key": "33across",
       "name": "33Across",
       "urls": [

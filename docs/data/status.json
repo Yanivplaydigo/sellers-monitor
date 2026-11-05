@@ -594,28 +594,6 @@
    "ours": []
   },
   {
-   "key": "eskimi",
-   "name": "Eskimi",
-   "status": "ok",
-   "url": "https://eskimi.com/sellers.json",
-   "count": 654,
-   "last_checked": "2026-11-05T13:36:51Z",
-   "last_ok": "2026-11-05T13:36:51Z",
-   "last_change": "2026-11-05T13:36:51Z",
-   "added": 1,
-   "removed": 0,
-   "changed": 0,
-   "error": "",
-   "ours": [
-    {
-     "id": "2020000214",
-     "name": "Playdigo",
-     "domain": "playdigo.com",
-     "type": "INTERMEDIARY"
-    }
-   ]
-  },
-  {
    "key": "33across",
    "name": "33Across",
    "status": "ok",
