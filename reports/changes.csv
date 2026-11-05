@@ -2042,3 +2042,5 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-11-05,Index Exchange,changed,208002,"Mediavine, Inc.",journeymv.com,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
 2026-11-05,Index Exchange,changed,215978,America's Test Kitchen,americastestkitchen.com,PUBLISHER,0,"name: 'Marquee Brands' → ""America's Test Kitchen""; domain: 'marqueebrands.com' → 'americastestkitchen.com'"
 2026-11-05,Index Exchange,changed,216485,America's Test Kitchen,americastestkitchen.com,PUBLISHER,0,"name: 'Marquee Brands' → ""America's Test Kitchen""; domain: 'marqueebrands.com' → 'americastestkitchen.com'"
+2026-11-05,Sharethrough,removed,5027-OB,ALO Media (via OB),google.com,INTERMEDIARY,0,
+2026-11-05,Sharethrough,removed,6070-OB,Poder360 (via OB),google.com,INTERMEDIARY,0,

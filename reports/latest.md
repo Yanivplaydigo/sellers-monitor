@@ -19,7 +19,7 @@
 ✅ Bright Mountain Media: no changes (169 sellers)
 ✅ Sovrn: no changes (7,356 sellers)
 ✅ OneTag: no changes (2,337 sellers)
-✅ Sharethrough: no changes (5,239 sellers)
+🔔 Sharethrough: +0 added, −2 removed, ~0 changed (5,239 → 5,237)
 ✅ Smaato: no changes (2,917 sellers)
 ✅ PubNative: no changes (2,898 sellers)
 ✅ SmartyAds: no changes (406 sellers)
@@ -35,3 +35,8 @@
 ✅ Triton Digital: no changes (486 sellers)
 ✅ Index Exchange: no changes (4,039 sellers)
 ✅ Yieldmo: no changes (476 sellers)
+
+### Sharethrough
+*Removed (2)*
+• `5027-OB` ALO Media (via OB) | google.com | INTERMEDIARY
+• `6070-OB` Poder360 (via OB) | google.com | INTERMEDIARY
