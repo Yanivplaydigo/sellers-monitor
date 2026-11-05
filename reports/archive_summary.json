@@ -1,0 +1,170 @@
+{
+ "generated": "2026-11-05T14:24:07Z",
+ "target": "20261006",
+ "ssps": [
+  {
+   "ssp": "Magnite (Rubicon Project)",
+   "archive_date": "20261019",
+   "note": "error: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "ssp": "Xandr (AppNexus)",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "TripleLift",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "OpenX",
+   "archive_date": "20261019",
+   "old_count": 7879,
+   "new_count": 8019,
+   "removed_intermediaries": 0
+  },
+  {
+   "ssp": "Equativ",
+   "archive_date": "20261012",
+   "old_count": 2718,
+   "new_count": 2738,
+   "removed_intermediaries": 0
+  },
+  {
+   "ssp": "PubMatic",
+   "archive_date": "20261016",
+   "note": "error: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "ssp": "Media.net",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "FreeWheel",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Zeta Global",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "LoopMe",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Epsilon (Conversant)",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Adform",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Nexxen",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Consumable",
+   "archive_date": "20260910",
+   "note": "error: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "ssp": "Criteo",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Sonobi",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Bright Mountain Media",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Sovrn",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "OneTag",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Sharethrough",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Smaato",
+   "archive_date": "20261006",
+   "note": "error: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "ssp": "PubNative",
+   "archive_date": "20261006",
+   "note": "error: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "ssp": "E-Planning",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Improve Digital",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "InMobi",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Ogury",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "33Across",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Apester",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Seedtag",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Triton Digital",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Index Exchange",
+   "archive_date": null,
+   "note": "no archive copy"
+  },
+  {
+   "ssp": "Yieldmo",
+   "archive_date": null,
+   "note": "no archive copy"
+  }
+ ]
+}
