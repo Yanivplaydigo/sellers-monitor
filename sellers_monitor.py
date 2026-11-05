@@ -398,7 +398,8 @@ def run(args):
         else:
             old = prev["sellers"]
             r["old_count"] = len(old)
-            if old and len(new) < len(old) * (1 - cfg.get("max_drop_ratio", 0.5)):
+            if (old and len(new) < len(old) * (1 - cfg.get("max_drop_ratio", 0.5))
+                    and ssp["key"] not in cfg.get("accept_drop", [])):
                 r["status"] = "anomaly"
                 results.append(r)
                 print(f"   anomaly: {len(old)} → {len(new)}")

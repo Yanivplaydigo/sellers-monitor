@@ -297,5 +297,8 @@
   "notify_when_no_changes": false,
   "max_items_per_list": 15,
   "dashboard_history_days": 180,
-  "max_logged_per_run": 500
+  "max_logged_per_run": 500,
+  "accept_drop": [
+    "consumable"
+  ]
 }
