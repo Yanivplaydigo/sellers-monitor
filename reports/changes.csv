@@ -1958,3 +1958,8 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-11-05,Index Exchange,changed,216485,America's Test Kitchen,americastestkitchen.com,PUBLISHER,0,"name: 'Marquee Brands' → ""America's Test Kitchen""; domain: 'marqueebrands.com' → 'americastestkitchen.com'"
 2026-11-05,Sharethrough,removed,5027-OB,ALO Media (via OB),google.com,INTERMEDIARY,0,
 2026-11-05,Sharethrough,removed,6070-OB,Poder360 (via OB),google.com,INTERMEDIARY,0,
+2026-11-05,Media.net,added,8CU7Y0Y2Y,Meetscale,flashb.id,INTERMEDIARY,0,
+2026-11-05,Media.net,removed,8CARIXSMQ,Algorix,algorix.co,INTERMEDIARY,0,
+2026-11-05,Sharethrough,added,5027-OB,ALO Media (via OB),google.com,INTERMEDIARY,0,
+2026-11-05,Sharethrough,added,6070-OB,Poder360 (via OB),google.com,INTERMEDIARY,0,
+2026-11-05,Eskimi,added,2020001339,Denakop,denakop.com,INTERMEDIARY,0,
