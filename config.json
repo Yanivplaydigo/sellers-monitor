@@ -177,14 +177,6 @@
       ]
     },
     {
-      "key": "smartyads",
-      "name": "SmartyAds",
-      "urls": [
-        "https://smartyads.com/sellers.json",
-        "https://www.smartyads.com/sellers.json"
-      ]
-    },
-    {
       "key": "eplanning",
       "name": "E-Planning",
       "urls": [
@@ -224,14 +216,6 @@
       "urls": [
         "https://eskimi.com/sellers.json",
         "https://www.eskimi.com/sellers.json"
-      ]
-    },
-    {
-      "key": "adagio",
-      "name": "Adagio",
-      "urls": [
-        "https://adagio.io/sellers.json",
-        "https://www.adagio.io/sellers.json"
       ]
     },
     {

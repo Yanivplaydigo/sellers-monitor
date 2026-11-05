@@ -513,28 +513,6 @@
    "ours": []
   },
   {
-   "key": "smartyads",
-   "name": "SmartyAds",
-   "status": "ok",
-   "url": "https://smartyads.com/sellers.json",
-   "count": 406,
-   "last_checked": "2026-11-05T12:46:20Z",
-   "last_ok": "2026-11-05T12:46:20Z",
-   "last_change": "2026-11-05T11:55:36Z",
-   "added": 0,
-   "removed": 0,
-   "changed": 0,
-   "error": "",
-   "ours": [
-    {
-     "id": "300229",
-     "name": "playdigo",
-     "domain": "playdigo.com",
-     "type": "INTERMEDIARY"
-    }
-   ]
-  },
-  {
    "key": "eplanning",
    "name": "E-Planning",
    "status": "ok",
@@ -632,28 +610,6 @@
     {
      "id": "2020000214",
      "name": "Playdigo",
-     "domain": "playdigo.com",
-     "type": "INTERMEDIARY"
-    }
-   ]
-  },
-  {
-   "key": "adagio",
-   "name": "Adagio",
-   "status": "ok",
-   "url": "https://adagio.io/sellers.json",
-   "count": 1217,
-   "last_checked": "2026-11-05T12:46:20Z",
-   "last_ok": "2026-11-05T12:46:20Z",
-   "last_change": "2026-11-05T11:55:36Z",
-   "added": 0,
-   "removed": 0,
-   "changed": 0,
-   "error": "",
-   "ours": [
-    {
-     "id": "1640",
-     "name": "Playdigo, Inc.",
      "domain": "playdigo.com",
      "type": "INTERMEDIARY"
     }
