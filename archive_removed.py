@@ -10,19 +10,28 @@ TARGET = (dt.date.today() - dt.timedelta(days=30)).strftime("%Y%m%d")
 FROM = (dt.date.today() - dt.timedelta(days=75)).strftime("%Y%m%d")
 UA = {"User-Agent": "sellers-json-monitor archive check"}
 
-def get(url, timeout=120):
-    for a in range(3):
+def get(url, timeout=120, want_json=True):
+    err = None
+    for a in range(6):
+        time.sleep(6)                                  # be gentle with the archive
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=timeout) as r:
-                return r.read()
+                body = r.read()
+            if not want_json or body.lstrip()[:1] in (b"[", b"{") or body.strip() == b"":
+                return body
+            err = RuntimeError(f"non-JSON reply: {body[:120]!r}")
         except Exception as e:
-            err = e; time.sleep(5 * (a + 1))
+            err = e
+        print("  retry", a + 1, url[:90], err)
+        time.sleep(30 * (a + 1))
     raise err
 
 def snapshots(url):
     q = urllib.parse.urlencode({"url": re.sub(r"^https?://", "", url), "from": FROM,
                                 "output": "json", "fl": "timestamp,statuscode", "filter": "statuscode:200"})
-    rows = json.loads(get("https://web.archive.org/cdx/search/cdx?" + q) or b"[]")
+    body = get("https://web.archive.org/cdx/search/cdx?" + q)
+    print("  cdx", url, len(body))
+    rows = json.loads(body or b"[]")
     return [r[0] for r in rows[1:]]
 
 cfg = json.loads((ROOT / "config.json").read_text())
