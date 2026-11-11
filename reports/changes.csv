@@ -3005,3 +3005,128 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-11-10,Index Exchange,added,221429,America's Test Kitchen Limited Partnership (via Google OB),google.com,INTERMEDIARY,0,
 2026-11-10,Index Exchange,added,221434,Vital Media Network (via Google OB),google.com,INTERMEDIARY,0,
 2026-11-10,Index Exchange,removed,193875,Azerion Technology B.V,adplay.it,INTERMEDIARY,0,
+2026-11-11,Magnite (Rubicon Project),added,11554,"EMX Digital, LLC",brealtime.com,INTERMEDIARY,0,
+2026-11-11,Magnite (Rubicon Project),added,12272,Publishers Clearing House LLC,pch.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,13236,AARP Digital Sales,aarp.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,14522,Seven Network Operations Ltd,pacificmags.com.au,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,16526,Robert Austin Jackson,phandroid.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,16656,"The Village Voice, LLC",villagevoice.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,17578,Google,google.com,INTERMEDIARY,0,
+2026-11-11,Magnite (Rubicon Project),added,17712,"Turner Broadcasting System, Inc.",cnn.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,17810,EUROSUD PROVENCE,laprovence.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,18806,Google,google.com,INTERMEDIARY,0,
+2026-11-11,Magnite (Rubicon Project),added,19680,Open Road LLC,traderinteractive.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,20838,"The FADER, Inc.",thefader.com,PUBLISHER,0,
+2026-11-11,Magnite (Rubicon Project),added,24406,Google,google.com,INTERMEDIARY,0,
+2026-11-11,Magnite (Rubicon Project),removed,20526,Google,google.com,INTERMEDIARY,0,
+2026-11-11,Magnite (Rubicon Project),removed,8526,"Imgur, Inc.",media-lab.ai,PUBLISHER,0,
+2026-11-11,OpenX,added,654784861,GAM OA Cloud (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,added,654784868,ADMOB Gianluca Cisana (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,added,654822514,GAM Bien'ici (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,added,654973030,GAM Evaluate Dynamics s.r.o. (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,added,654973037,ADMOB Zoot Digital vl. Matej Vidaković (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,added,654973041,ADMOB Eddie Soto (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,added,654973045,ADMOB Scappy Apps (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,added,654973049,ADMOB EScooterNerds (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,OpenX,removed,561978653,Delicious Global Pty Ltd,deliciousglobal.com.au,PUBLISHER,0,
+2026-11-11,OpenX,changed,564776337,America's Test Kitchen,americastestkitchen.com,PUBLISHER,0,domain: 'marqueebrands.com' → 'americastestkitchen.com'
+2026-11-11,OpenX,changed,566298401,America’s Test Kitchen,americastestkitchen.com,PUBLISHER,0,name: 'Food52' → 'America’s Test Kitchen'; domain: 'food52.com' → 'americastestkitchen.com'
+2026-11-11,Equativ,removed,2576,SBB Media,sbb.bg,INTERMEDIARY,0,
+2026-11-11,Equativ,changed,4365,Scripps,newsy.com,PUBLISHER,0,name: 'Newsy' → 'Scripps'
+2026-11-11,Equativ,changed,6016,CMI Marketing Inc dba Raptive Paradium,cafemedia.com,BOTH,0,name: 'RaptiveArena' → 'CMI Marketing Inc dba Raptive Paradium'
+2026-11-11,PubMatic,added,168593,JTN,jtnetwork.com,PUBLISHER,0,
+2026-11-11,PubMatic,added,168594,JTN,jtnetwork.com,PUBLISHER,0,
+2026-11-11,PubMatic,added,168595,Navitime via OB (via EB),google.com,INTERMEDIARY,0,
+2026-11-11,PubMatic,changed,158458,"CMI Marketing, Inc. d/b/a Raptive",cafemedia.com,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
+2026-11-11,PubMatic,changed,167024,"CMI Marketing, Inc. d/b/a Raptive",cafemedia.com,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
+2026-11-11,PubMatic,changed,167760,"CMI Marketing, Inc. d/b/a Raptive",cafemedia.com,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
+2026-11-11,PubMatic,changed,168490,CTC TECHNOLOGY LIMITED,ctctechnologyltd.com,PUBLISHER,0,name: 'Gau Technology Ltd.' → 'CTC TECHNOLOGY LIMITED'; domain: 'rocketadsltd.com' → 'ctctechnologyltd.com'
+2026-11-11,Media.net,removed,8CU253836,"CMI Marketing, Inc. d/b/a Raptive, (via OB)",google.com,INTERMEDIARY,0,
+2026-11-11,Media.net,removed,8CUU5CAJV,"The Arena Group Holdings, Inc. (Via OB)",google.com,INTERMEDIARY,0,
+2026-11-11,Media.net,changed,8CAM2CTR6,Antengo Inc,sellwild.com,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
+2026-11-11,Media.net,changed,8CU2265Y6,PARADIUM.AI,paradium.ai,PUBLISHER,0,"name: 'The Arena Platform, Inc.' → 'PARADIUM.AI'"
+2026-11-11,Media.net,changed,8CUSQ683K,PARADIUM.AI,paradium.ai,PUBLISHER,0,"name: 'The Arena Platform, Inc.' → 'PARADIUM.AI'"
+2026-11-11,Media.net,changed,8CUXM2DSR,PARADIUM.AI,paradium.ai,PUBLISHER,0,"name: 'The Arena Group Holdings, Inc.' → 'PARADIUM.AI'; domain: 'thearenagroup.net' → 'paradium.ai'"
+2026-11-11,FreeWheel,changed,534994,Xool Media &Tech OU,xoolmedia.com,INTERMEDIARY,0,domain: 'xoolmedia.co' → 'xoolmedia.com'
+2026-11-11,FreeWheel,changed,534994-r-523319,XoolMedia&TechOU,xoolmedia.com,INTERMEDIARY,0,domain: 'xoolmedia.co' → 'xoolmedia.com'
+2026-11-11,FreeWheel,changed,534994-r-524565,XoolMedia&TechOU,xoolmedia.com,INTERMEDIARY,0,domain: 'xoolmedia.co' → 'xoolmedia.com'
+2026-11-11,Zeta Global,added,517,TripleB,tripleb.tv,PUBLISHER,0,
+2026-11-11,Zeta Global,added,999,BX Network Solutions LLC,betweendigital.com,BOTH,0,
+2026-11-11,Epsilon (Conversant),added,100973,Cas.ai,cas.ai,BOTH,0,
+2026-11-11,Epsilon (Conversant),added,101359,Conde Nast Holdings Ltd,condenast.com,PUBLISHER,0,
+2026-11-11,Nexxen,removed,107717971,Google - Adtima Joint Stock Company,google.com,INTERMEDIARY,0,
+2026-11-11,Nexxen,removed,477505689,Google - Image Future (Thailand) Company Limited,google.com,INTERMEDIARY,0,
+2026-11-11,Sonobi,changed,f4c2ba091e,Blitz App Inc,blitz.gg,PUBLISHER,0,name: 'Blitz' → 'Blitz App Inc'
+2026-11-11,OneTag,added,72d634de089b3fc,"Inquirer Interactive, Inc.",inquirer.net,BOTH,0,
+2026-11-11,OneTag,added,7745a7f5c4890b2-OB,FunCorp (via OB),google.com,INTERMEDIARY,0,
+2026-11-11,OneTag,added,775e76fef06ab5d-OB,Ads Solution (via OB),google.com,INTERMEDIARY,0,
+2026-11-11,OneTag,added,8dd92b4434e684b,Rhebus Inc,rhebus.works,PUBLISHER,0,
+2026-11-11,OneTag,added,983b2d384e0e9fa-OB,ITMATTER Inc.-OB,google.com,INTERMEDIARY,0,
+2026-11-11,OneTag,added,986a71573352342,LA.LV LTD,la.lv,PUBLISHER,0,
+2026-11-11,OneTag,added,986c9bb1bd2cd6c,TCL,tcl.com,INTERMEDIARY,0,
+2026-11-11,Sharethrough,added,5859-OB,T-Mobile (via OB),google.com,INTERMEDIARY,0,
+2026-11-11,Sharethrough,removed,2576,SBB Media,sbb.bg,INTERMEDIARY,0,
+2026-11-11,Sharethrough,changed,4365,Scripps,newsy.com,PUBLISHER,0,name: 'Newsy' → 'Scripps'
+2026-11-11,Sharethrough,changed,6016,CMI Marketing Inc dba Raptive Paradium,cafemedia.com,BOTH,0,name: 'RaptiveArena' → 'CMI Marketing Inc dba Raptive Paradium'
+2026-11-11,Smaato,added,1100060638,loyalinapp,,PUBLISHER,0,
+2026-11-11,Smaato,removed,1100046872,EB AdMob - SMG Studio (pub-9906745873796766),google.com,INTERMEDIARY,0,
+2026-11-11,Smaato,removed,1100049882,EB-admob-Histudio-pub-2648626906167667,google.com,INTERMEDIARY,0,
+2026-11-11,Smaato,removed,1100049910,EB AdMob - Tran An (pub-5207043292593377),google.com,INTERMEDIARY,0,
+2026-11-11,Smaato,removed,1100054063,EB AdMob- NETIGEN Kluzowicz spółka jawna (pub-4699516034931013),google.com,INTERMEDIARY,0,
+2026-11-11,Smaato,removed,1100055997,EB DFP - CMCAM (pub-2213206878366342),google.com,INTERMEDIARY,0,
+2026-11-11,Smaato,removed,1100056264,SmartNews,smartnews.com,PUBLISHER,0,
+2026-11-11,Smaato,removed,1100056527,EB DFP-Yourbow_CCI(pub-4797889527165506),google.com,INTERMEDIARY,0,
+2026-11-11,Smaato,removed,1100056968,DayDream Technology,pavoboxapp.com,PUBLISHER,0,
+2026-11-11,Smaato,removed,1100057131,pub-1788708077887234,google.com,INTERMEDIARY,0,
+2026-11-11,PubNative,added,1018431,Learnings,google.com,INTERMEDIARY,0,
+2026-11-11,Improve Digital,added,1602_102813,Lucas Rodrigues,megacidade.com,PUBLISHER,0,
+2026-11-11,Improve Digital,added,1602_103892,naoki tanaka,irmeccen.org,PUBLISHER,0,
+2026-11-11,Improve Digital,added,1602_106154,Hiroki Shimogawara,hirockyengineering.com,PUBLISHER,0,
+2026-11-11,Improve Digital,added,1602_133579,Cyril Correia,fiesta-sbkr.com,PUBLISHER,0,
+2026-11-11,Improve Digital,added,1602_26855,Sabino Quilca Zegarra,danzasdelperu.club,PUBLISHER,0,
+2026-11-11,Improve Digital,added,1602_30255,Alexander Lebedev,real-vin.com,PUBLISHER,0,
+2026-11-11,Improve Digital,added,1602_86166,Sascha Blum,kodinerds.net,PUBLISHER,0,
+2026-11-11,Improve Digital,added,1602_92084,Claudenice Caldeira,portalfinancasimples.online,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_105624,Yamid Ortiz,quimicafacil.net,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_110614,Kazuhiro Nishimura,tabikazu.com,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_112297,Cristian Eslava Suárez,finaldechiste.com,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_116966,Vitor Guilherme de Carvalho Lima Vitor,top10daconstrucaobrasil.com.br,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_120807,André Meneses,goals.zone,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_121216,Nicolas Dayez,athleexplique.fr,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_122314,Silvio Malvolti,buonenotizie.it,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_123001,MASATO SHIMIZU,sai2.info,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_132764,tharinda thennakoon,eternalzero.cloud,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_132925,Christophe Loup,apprendrelesolfege.com,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_27239,Francisco Lora Burguillos,sevillanadelimpieza.com,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_29889,José ricardo Jrlaborao,educar10.site,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_48866,Dzmitry Vinakurau,autonevodpl.com,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_57647,Bernat Requena serra,universoformulas.com,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_93547,Stephen Muiruri,boredgiant.com,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_94335,Ryuki Hirata,toaru-web.net,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_94338,kazuya sugimura,admin-it.xyz,PUBLISHER,0,
+2026-11-11,Improve Digital,removed,1602_97376,Aparicio Erick,blogdelnarcomexico.com,PUBLISHER,0,
+2026-11-11,Improve Digital,changed,1602_111583,Yuko Higuchi,starry-night-wish-cometrue.com,PUBLISHER,0,domain: 'luna-kawaii-life.com' → 'starry-night-wish-cometrue.com'
+2026-11-11,Improve Digital,changed,1602_43316,Raj Singh,loan-trading.net,PUBLISHER,0,domain: 'business-credits.cc' → 'loan-trading.net'
+2026-11-11,Improve Digital,changed,1602_51031,Pinto Vitorino,jornalmoza.com,PUBLISHER,0,domain: 'desportoreimoz.com' → 'jornalmoza.com'
+2026-11-11,Improve Digital,changed,1602_79997,Frank Leuchtenberger,outputter.io,PUBLISHER,0,domain: 'zeitpuls.com' → 'outputter.io'
+2026-11-11,Improve Digital,changed,1602_87804,Julio García Chavira,puredrivingmx.com.mx,PUBLISHER,0,domain: 'ladecuadros.com' → 'puredrivingmx.com.mx'
+2026-11-11,Improve Digital,changed,905_22590397484,FCUpdate B.V.,realtimesnetwork.com,PUBLISHER,0,FCUpdate B.V. | realtimesnetwork.com | PUBLISHER +3 more  →  FCUpdate B.V. | realtimesnetwork.com | PUBLISHER +3 more
+2026-11-11,InMobi,added,2b9a81e53e004463b056fcc9b66b822f,heyUp Co.,good-lock.net,PUBLISHER,0,
+2026-11-11,InMobi,added,475f80c379234e85b835de4d028ba3f0,ZSoft,subtranslate.zsoft.asia,PUBLISHER,0,
+2026-11-11,InMobi,added,917c53405f284e7f8ac3c9a2818ea846,BYTEMEDIA PTE. LTD.,bytemedia.mobi,PUBLISHER,0,
+2026-11-11,InMobi,added,a796d422bfae42c8a3e107e0db0c5230,MeuGestos,meugestorapp.com,PUBLISHER,0,
+2026-11-11,InMobi,added,b7afab003bb0471394adbf6f866946a2,Shorif Telicom,besttimeforbed.com,PUBLISHER,0,
+2026-11-11,InMobi,added,c727975cb5ca4e1ca0317bfec3458f35,北京黑知了科技有限公司,novaanovel.com,PUBLISHER,0,
+2026-11-11,InMobi,added,f3be4f458c2545fa93f70c0bc0983fe6,SCALAR DATA CO LTD,goldgoose.kr,PUBLISHER,0,
+2026-11-11,InMobi,removed,18404f3c67fb4b92a1ab19d6e2373cfb,PolyBuzz,polybuzz.ai,PUBLISHER,0,
+2026-11-11,InMobi,removed,4aa95201f04f4238b206d0426523a89c,Nys Christophe,fullscreencallerid.com,PUBLISHER,0,
+2026-11-11,InMobi,removed,4e40ddf215ba4f8f89382bdf137de6b0,ANTIVIRUS FILTER LLC,antivirusfilter.inc-co.top,PUBLISHER,0,
+2026-11-11,InMobi,removed,592543f497604c28ba14c2e5f69fc8a1,Rubik Apps Co,linkdesks.net,PUBLISHER,0,
+2026-11-11,InMobi,removed,ca39a4189a3544109e4b3a055f784395,INBEE VIETNAM TECHNOLOGY JOINT STOCK COMPANY,google.com,INTERMEDIARY,0,
+2026-11-11,Ogury,added,619a6693-6cd1-4dec-9f11-60c1de47a5f9,Pubmax,pubmax.com,INTERMEDIARY,0,
+2026-11-11,Ogury,removed,3870134a-1cf2-4bf4-9315-19e00ca58ee6,Ranker.com,ranker.com,PUBLISHER,0,
+2026-11-11,Ogury,changed,7cbdb398-8edb-4cc3-ae5f-688279bbdb08,[NOT IN O1] Header bidding Agency - ICardoo Digital Marketing srl,hbagency.it,PUBLISHER,0,domain: 'casadistile.it' → 'hbagency.it'
+2026-11-11,Apester,added,5b201f2f82f33b4915f95b97,Global,global.com,PUBLISHER,0,
+2026-11-11,Seedtag,added,6af3573b0a47ea999bfa0ee5,Justbaat Mediatech Private Limited,justbaat.com,BOTH,0,
+2026-11-11,Yieldmo,added,4197541282093932586,Flipboard,flipboard.com,PUBLISHER,0,
+2026-11-11,Yieldmo,added,4198227179730837507,Balance,balance-x.com,BOTH,0,
