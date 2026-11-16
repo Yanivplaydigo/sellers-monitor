@@ -4284,3 +4284,8 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-11-16,Ogury,added,fdc78f32-d119-48dd-912e-e8dd096b8fe3,Online Publishing Ventures LLC,gbadnetwork.com,PUBLISHER,0,
 2026-11-16,Ogury,removed,c272679f-54cb-4061-9420-51270cf9b746,TROJMIASTO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,trojmiasto.pl,PUBLISHER,0,
 2026-11-16,Ogury,removed,f10b2e4b-7c1e-4a50-b1d3-e239fc6719ca,Rough Maps Incorporated,roughmaps.com,PUBLISHER,0,
+2026-11-16,OpenX,added,636810198,"GRUPO RAMIREZ COGOLLOR, SL",quelibroleo.com,PUBLISHER,0,
+2026-11-16,OpenX,added,657257598,SofaScore Ltd,sofascore.com,PUBLISHER,0,
+2026-11-16,Media.net,added,8CU1QEG1E,Direction Dev LLC,directiondev.com,PUBLISHER,0,
+2026-11-16,OneTag,changed,986c9bb1bd2cd6c,TCL,tcl.com,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
+2026-11-16,PubNative,added,1018435,Indigo - Low CTR,bigo.sg,INTERMEDIARY,0,
