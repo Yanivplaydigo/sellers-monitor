@@ -34,6 +34,7 @@ import os
 import smtplib
 import sys
 import time
+import urllib.error
 import urllib.request
 from email.message import EmailMessage
 from pathlib import Path
@@ -47,17 +48,38 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 
 
 # ---------------------------------------------------------------- fetching
+HEADER_PROFILES = [
+    {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/131.0.0.0 Safari/537.36",
+     "Accept": "application/json,text/plain,*" "/*", "Accept-Language": "en-US,en;q=0.9",
+     "Accept-Encoding": "gzip"},
+    {"User-Agent": "curl/8.5.0", "Accept": "*" "/*"},
+    {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0",
+     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*" "/*;q=0.8",
+     "Accept-Language": "en-US,en;q=0.5", "Accept-Encoding": "gzip"},
+]
+
+
 def fetch_json(url, timeout=240):
-    req = urllib.request.Request(url, headers={
-        "User-Agent": UA, "Accept": "application/json,*" "/*", "Accept-Encoding": "gzip"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        raw = r.read()
-        if r.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
-            raw = gzip.decompress(raw)
-    data = json.loads(raw.decode("utf-8-sig", errors="replace"))
-    if not isinstance(data, dict) or not isinstance(data.get("sellers"), list):
-        raise ValueError("no 'sellers' array")
-    return data
+    last = None
+    for headers in HEADER_PROFILES:              # some sites block one client profile but not another
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                raw = r.read()
+                if r.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
+                    raw = gzip.decompress(raw)
+            data = json.loads(raw.decode("utf-8-sig", errors="replace"))
+            if not isinstance(data, dict) or not isinstance(data.get("sellers"), list):
+                raise ValueError("no 'sellers' array")
+            return data
+        except urllib.error.HTTPError as e:
+            last = e
+            if e.code not in (401, 403, 406, 429, 503):
+                raise
+        except ValueError as e:                  # HTML challenge page instead of JSON
+            last = e
+    raise last
 
 
 def fetch_ssp(ssp, preferred=None):
