@@ -4669,3 +4669,6 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-11-18,Ogury,changed,733164463de2a943f95cac40567dc53c,NETROKEN INC,netroken.ca,PUBLISHER,0,name: '[NOT IN O1] NETROKEN INC' → 'NETROKEN INC'
 2026-11-18,Seedtag,added,6afc6606ced71cb82fc5939d,Vertoz Inc.,vertoz.com,INTERMEDIARY,0,
 2026-11-18,Seedtag,added,6afc92a5c498ae5d8479411b,V.N CONTACT – TECH LTD,pwr-ads.com,PUBLISHER,0,
+2026-11-18,Sharethrough,removed,5373-OB,Zeus Media (via OB),google.com,INTERMEDIARY,0,
+2026-11-18,Sharethrough,removed,6074,SportBusiness,sport.fr,PUBLISHER,0,
+2026-11-18,Sharethrough,changed,3525,Freestar,freestar.io,BOTH,0,domain: 'freestar.com' → 'freestar.io'
