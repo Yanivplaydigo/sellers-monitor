@@ -124,8 +124,6 @@
       "name": "Sonobi",
       "urls": [
         "https://sonobi.com/sellers.json",
-        "https://sonobi.com/sellers.json?v=1",
-        "http://sonobi.com/sellers.json",
         "https://www.sonobi.com/sellers.json"
       ]
     },
@@ -260,8 +258,6 @@
       "name": "Yieldmo",
       "urls": [
         "https://yieldmo.com/sellers.json",
-        "https://yieldmo.com/sellers.json?v=1",
-        "http://yieldmo.com/sellers.json",
         "https://www.yieldmo.com/sellers.json"
       ]
     }

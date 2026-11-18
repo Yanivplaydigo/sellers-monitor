@@ -97,7 +97,27 @@ def fetch_ssp(ssp, preferred=None):
                 return url, fetch_json(url), errors
             except Exception as e:               # noqa: BLE001
                 errors.append(f"{url}: {type(e).__name__}: {e}"[:300])
+    # Last resort: some sites block GitHub's servers outright. Fetch through Firecrawl if a key is set.
+    if os.environ.get("FIRECRAWL_API_KEY"):
+        for url in urls:
+            try:
+                return url, fetch_via_firecrawl(url), errors
+            except Exception as e:               # noqa: BLE001
+                errors.append(f"firecrawl {url}: {type(e).__name__}: {e}"[:300])
     return None, None, errors
+
+
+def fetch_via_firecrawl(url):
+    body = json.dumps({"url": url, "formats": ["rawHtml"], "maxAge": 0}).encode()
+    req = urllib.request.Request("https://api.firecrawl.dev/v2/scrape", data=body, headers={
+        "Authorization": "Bearer " + os.environ["FIRECRAWL_API_KEY"], "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=300) as r:
+        resp = json.loads(r.read().decode("utf-8"))
+    raw = (resp.get("data") or {}).get("rawHtml") or ""
+    data = json.loads(raw.lstrip("\ufeff"))
+    if not isinstance(data, dict) or not isinstance(data.get("sellers"), list):
+        raise ValueError("no 'sellers' array")
+    return data
 
 
 def normalize(data):
