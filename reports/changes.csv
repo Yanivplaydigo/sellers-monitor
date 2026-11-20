@@ -4856,3 +4856,393 @@ date,ssp,change,seller_id,name,domain,seller_type,is_confidential,details
 2026-11-19,Index Exchange,added,221979,Capax Infotech Private Limited (via Google OB),google.com,INTERMEDIARY,0,
 2026-11-19,Index Exchange,added,221989,GONLIAPPS SL (via Google OB),google.com,INTERMEDIARY,0,
 2026-11-19,Index Exchange,added,222059,Alma Media,almamedia.fi,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),added,14344,KSE Sportsman Media Inc,outdoorchannel.com,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),added,14758,"FIREFLY ENGAGEMENT, LLC",liftablemedia.com,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),added,15808,DIFFEN LLC,diffen.com,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),added,15820,Koreaboo Inc.,koreaboo.com,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),added,16368,Webads Interactive SL,webads.eu,INTERMEDIARY,0,
+2026-11-20,Magnite (Rubicon Project),added,18880,Gamma Gaana Limited,gaana.com,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),added,22030,EL PAIS S.A.,elpais.com.co,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),added,24346,Relap Mexico S.A de C.V,relappro.com,INTERMEDIARY,0,
+2026-11-20,Magnite (Rubicon Project),added,29173,Funda Real Estate B.V.,funda.nl,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),removed,15276,NewBase Inc,timeinc.com,INTERMEDIARY,0,
+2026-11-20,Magnite (Rubicon Project),removed,19106,Promipool GmbH,promipool.de,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),removed,27168,INCEPTION TECHNOLOGIES LTD,inceptionmedia.ai,INTERMEDIARY,0,
+2026-11-20,Magnite (Rubicon Project),removed,28505,Screenomic FZ-LLC,wide.net,PUBLISHER,0,
+2026-11-20,Magnite (Rubicon Project),changed,27848,Entravision Communications Corporation,entravision.com,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
+2026-11-20,TripleLift,added,14917,Digital Turbine,fyber.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,added,14917-EB,Digital Turbine (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,added,14968,Freestar,christianitytoday.com,PUBLISHER,0,
+2026-11-20,TripleLift,added,14969-EB,Outsourced Ad Ops - OAO (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,1018-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3816-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3837-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3838-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3841-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3870-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3871-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3875-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3878-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3879-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,3885-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,4267-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,4339-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,7786-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,81-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,removed,996-EB,Conde Nast (via EB Network),google.com,INTERMEDIARY,0,
+2026-11-20,TripleLift,changed,14957,Freestar,hora.mx,BOTH,0,seller_type: 'INTERMEDIARY' → 'BOTH'
+2026-11-20,OpenX,added,663019921,GAM Sakeus Berg (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663019928,GAM Dinero MX (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663056170,ADMOB Mana Protocol (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663056174,ADMOB HAXAI LAB LLC (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663056178,ADMOB Nazariy Mandebura (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663056182,ADMOB MERLOT MATHIAS EUGENE PIERRE ANDRE (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663056186,ADMOB R7CAD Soft (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663056190,ADMOB Keel Lab (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663056194,ADMOB Runner Soft (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663128702,ADMOB Alfredo Salazar Sanchez (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663128706,ADMOB WRA Development (via EB),google.com,INTERMEDIARY,0,
+2026-11-20,OpenX,added,663663071,Delicious Global Pty Ltd,deliciousglobal.com.au,PUBLISHER,0,
+2026-11-20,Equativ,removed,5432-OB,We Are 365 LATAM (via OB),google.com,INTERMEDIARY,0,
+2026-11-20,Equativ,changed,1388,AddApptr GmbH,gravite.net,INTERMEDIARY,0,domain: 'addapptr.com' → 'gravite.net'
+2026-11-20,PubMatic,added,168622,smartclip Europe GmbH,smartclip.net,INTERMEDIARY,0,
+2026-11-20,PubMatic,added,168623,Comcast,xfinity.com/,PUBLISHER,0,
+2026-11-20,PubMatic,added,168624,Apollo Software Pte Ltd,apollogamestudio.com,PUBLISHER,0,
+2026-11-20,PubMatic,added,168625,sciplay,sciplay.com,PUBLISHER,0,
+2026-11-20,PubMatic,added,168628,Iversoft,iversoftgames.com,PUBLISHER,0,
+2026-11-20,PubMatic,changed,168171,GoodRun Media,goodrunmedia.com,BOTH,0,seller_type: 'PUBLISHER' → 'BOTH'
+2026-11-20,PubMatic,changed,168396,GoodRun Media,goodrunmedia.com,BOTH,0,seller_type: 'PUBLISHER' → 'BOTH'
+2026-11-20,Media.net,added,8CAU034WL,BLOX Digital,bloxdigital.com,PUBLISHER,0,
+2026-11-20,Media.net,added,8CAX72FM4,VideoShakers,videoshakers.com,PUBLISHER,0,
+2026-11-20,Media.net,removed,8CUW374D8,E-Planning LLC,e-planning.net,INTERMEDIARY,0,
+2026-11-20,Media.net,changed,8CA1JJHDY,Publift (via OB),google.com,INTERMEDIARY,0,domain: 'google.ocm' → 'google.com'
+2026-11-20,Media.net,changed,8CA35JHYJ,Potrerofutbol.ar (via OB),google.com,INTERMEDIARY,0,name: 'Potrerofutbol.ar' → 'Potrerofutbol.ar (via OB)'
+2026-11-20,Media.net,changed,8CANDT44F,Shinka Limited,shinka.io,INTERMEDIARY,0,seller_type: 'PUBLISHER' → 'INTERMEDIARY'
+2026-11-20,Media.net,changed,8CAO3DPIR,Shinka Limited,shinka.io,INTERMEDIARY,0,seller_type: 'PUBLISHER' → 'INTERMEDIARY'
+2026-11-20,Media.net,changed,8CAVK1VCL,Shinka Limited,shinka.io,INTERMEDIARY,0,seller_type: 'PUBLISHER' → 'INTERMEDIARY'
+2026-11-20,Media.net,changed,8CU2T3HV4,Forbes Media LLC (Via OB),google.com,INTERMEDIARY,0,name: 'Forbes Media LLC' → 'Forbes Media LLC (Via OB)'; domain: 'forbes.com' → 'google.com'
+2026-11-20,Media.net,changed,8CU3LI4G5,"Neo Era Media, Inc (via OB)",google.com,INTERMEDIARY,0,"name: 'Neo Era Media, Inc (via Google OB)' → 'Neo Era Media, Inc (via OB)'"
+2026-11-20,Media.net,changed,8CU646M9H,Spike media ltd (via OB),google.com,INTERMEDIARY,0,name: 'Spike media ltd' → 'Spike media ltd (via OB)'
+2026-11-20,Media.net,changed,8CU84U67J,The Holy Bible App and Bible Resource Company (via OB),google.com,INTERMEDIARY,0,name: 'The Holy Bible App and Bible Resource Company (via' → 'The Holy Bible App and Bible Resource Company (via OB)'
+2026-11-20,Media.net,changed,8CUBMJ8E2,News Corp UK & Ireland Limited (via OB),google.com,INTERMEDIARY,0,name: 'News Corp UK & Ireland Limited' → 'News Corp UK & Ireland Limited (via OB)'
+2026-11-20,Media.net,changed,8CUKDVI65,Medialab.ai inc (via OB),google.com,INTERMEDIARY,0,name: 'Medialab.ai inc (OB)' → 'Medialab.ai inc (via OB)'
+2026-11-20,Media.net,changed,8CULAA441,Mind the Lab (via OB),google.com,INTERMEDIARY,0,name: 'Mind the Lab' → 'Mind the Lab (via OB)'
+2026-11-20,Media.net,changed,8CUTCY3J1,CoopÃƒÂ©rative nationale de l'information indÃƒÂ©p (via OB),google.com,INTERMEDIARY,0,"name: ""CoopÃƒÂ©rative nationale de l'information indÃƒÂ©p"" → ""CoopÃƒÂ©rative nationale de l'information indÃƒÂ©p (via OB)"""
+2026-11-20,Media.net,changed,8CUU85R85,Imonomy Interactive (via OB),google.com,INTERMEDIARY,0,name: 'Imonomy Interactive - EBDA' → 'Imonomy Interactive (via OB)'
+2026-11-20,Media.net,changed,8CUZSM757,MixedBin LLC (via OB),google.com,INTERMEDIARY,0,name: 'MixedBin LLC' → 'MixedBin LLC (via OB)'
+2026-11-20,FreeWheel,changed,532076,"Roku, Inc.",roku.com,BOTH,0,seller_type: 'PUBLISHER' → 'BOTH'
+2026-11-20,FreeWheel,changed,532076-523319,"Roku, Inc.",roku.com,BOTH,0,seller_type: 'PUBLISHER' → 'BOTH'
+2026-11-20,LoopMe,added,11367,Luna Media,lunamedia.io,INTERMEDIARY,0,
+2026-11-20,LoopMe,added,12872,Streamix Ltd,streamix-tv.com,INTERMEDIARY,0,
+2026-11-20,LoopMe,added,22570,Youtingting,melodyfallgame.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22571,SSA Power Technology,technology.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22572,Albion Ltda,albion.is,PUBLISHER,0,
+2026-11-20,LoopMe,added,22573,a2bliving,a2bliving.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22574,magalis,magalis-studio.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22575,lion tech network,moncrush.uk,PUBLISHER,0,
+2026-11-20,LoopMe,added,22576,Kytrunner Ventures,jusnod.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22577,Marwan Ali Ahmed Ali,gt.tc,PUBLISHER,0,
+2026-11-20,LoopMe,added,22578,Noureldin,dahabchart.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22579,Gabriel de A M dos Santos,guntocollective.xyz,PUBLISHER,0,
+2026-11-20,LoopMe,added,22580,NOIRLY LTD,johnhill.dev,PUBLISHER,0,
+2026-11-20,LoopMe,added,22581,Jackson LI,4399.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22582,Delaine Helsel,delainehel.bitbucket.io,PUBLISHER,0,
+2026-11-20,LoopMe,added,22583,Liang,novasoftstackmeta.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22584,brocodetech,harshafx777.github.io,PUBLISHER,0,
+2026-11-20,LoopMe,added,22585,dong,iapzp.top,PUBLISHER,0,
+2026-11-20,LoopMe,added,22586,BonusPoint,bonuspoint.online,PUBLISHER,0,
+2026-11-20,LoopMe,added,22587,Celestia Interactive,aditbowo.github.io,PUBLISHER,0,
+2026-11-20,LoopMe,added,22588,Dragica Lazic,k53ninja.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22589,Board Station Limited,sim-taxi.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22590,Miruvio Studio,mexicojacobo.blogspot.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22591,MD OBADULLAH RANI,bd-rh-team.xyz,PUBLISHER,0,
+2026-11-20,LoopMe,added,22592,junjian,tapnook.xyz,PUBLISHER,0,
+2026-11-20,LoopMe,added,22593,chuanxingda,chuanxingda.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22594,cdruichuang,cdruichuang.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22595,mengqiuxiaojiang,mengqiuxiaojiang.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22596,gaoquantech,gaoquantech.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22597,Mert Selametoğlu,omnideity.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22598,hanyanghongma,hanyanghongma.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22599,Miroslav Stantic,klelorapp.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22600,Xperyma,xperyma.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22601,Ace Industrial Systems,ace-industrial-systems.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22602,RH Tunnel Team,bd-rh-team.xyz,PUBLISHER,0,
+2026-11-20,LoopMe,added,22603,RollerAds,rollerads.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22604,ADFIRST AGENCY,adfirst.agency,PUBLISHER,0,
+2026-11-20,LoopMe,added,22605,Unitrix Games,gugugames-privacypolicy.blogspot.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22606,NDroid Hub,jobsleworld.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22607,Strategic Gaming Studios,strategicgamingstudiosllc.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22608,Sadupyog,bad-beryl-mu.vercel.app,PUBLISHER,0,
+2026-11-20,LoopMe,added,22609,cdhaoqing,cdhaoqing.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22610,BLUESTONE,yippeelandhk.workers.dev,PUBLISHER,0,
+2026-11-20,LoopMe,added,22611,huajieyunchuang,huajieyunchuang.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22612,Li Maoyu,wanjuanyouzhi.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22613,mengdayang,mengdayang.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22614,yaochuang,wanjiadasheng.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22615,Lam Huynh Khang,creativelab-studio.blogspot.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22616,TECH STRATEGY - FZCO,furtillery.com,PUBLISHER,0,
+2026-11-20,LoopMe,added,22617,Barbarda,barbarda.com,PUBLISHER,0,
+2026-11-20,LoopMe,removed,13954,Madstream Sp. z o.o,madstream.net,INTERMEDIARY,0,
+2026-11-20,Nexxen,added,1549650870,"DWANGO Co.,Ltd.",dwango.co.jp,PUBLISHER,0,
+2026-11-20,Nexxen,added,952026869,"ADTE, Inc.",adte.com,INTERMEDIARY,0,
+2026-11-20,Criteo,changed,SJYVMZ,Twist Digital Ltd,twist-digital.com,BOTH,0,domain: 'twist.win' → 'twist-digital.com'
+2026-11-20,Sovrn,added,607996,OMP,ompventures.com,INTERMEDIARY,0,
+2026-11-20,OneTag,added,8a80e33b291b904-OB,TOHSOFT-OB,google.com,INTERMEDIARY,0,
+2026-11-20,OneTag,added,95157793cdec3be,IBTimes,ibtimes.co.uk,PUBLISHER,0,
+2026-11-20,OneTag,added,977f95649069bda-OB,solderingmind-OB,google.com,INTERMEDIARY,0,
+2026-11-20,OneTag,added,987587b82906d37,Engage Media TV,engagemedia.tv,PUBLISHER,0,
+2026-11-20,OneTag,added,988b6a559ad7fb0,Zmaticoo,zmaticoo.com,INTERMEDIARY,0,
+2026-11-20,OneTag,removed,62f40acb3086a26-OB,Adpushup Inc. (via OB),google.com,INTERMEDIARY,0,
+2026-11-20,OneTag,removed,79da452cc76eb34-OB,Caraota Digital - New Dream Global  (via OB),google.com,INTERMEDIARY,0,
+2026-11-20,OneTag,removed,7c9ee18fe52fd27-OB,Poquesoft (via OB),google.com,INTERMEDIARY,0,
+2026-11-20,OneTag,removed,7cb1dc4f94628c4-OB,Lifebear Inc. (via OB),google.com,INTERMEDIARY,0,
+2026-11-20,OneTag,removed,9655148affdbe60-OB,Unity Future Bright Sport Limited-OB,google.com,INTERMEDIARY,0,
+2026-11-20,OneTag,changed,657e5263bbdf4d5,"Sem, Seo y Más Online Marketing, S.L.",semseoymas.com,BOTH,0,"name: 'Sem, Seo y M?s Online Marketing, S.L.' → 'Sem, Seo y Más Online Marketing, S.L.'"
+2026-11-20,OneTag,changed,657e5263bbdf4d5-OB,"Sem, Seo y Más Online Marketing, S.L. (via OB)",google.com,INTERMEDIARY,0,"name: 'Sem, Seo y M?s Online Marketing, S.L. (via OB)' → 'Sem, Seo y Más Online Marketing, S.L. (via OB)'"
+2026-11-20,OneTag,changed,69ad52fa58c7cd2,Sistema Roriz de Comunicação LTDA,concursosnobrasil.com.br,PUBLISHER,0,name: 'Sistema Roriz de Comunica??o LTDA' → 'Sistema Roriz de Comunicação LTDA'
+2026-11-20,OneTag,changed,76a7d69a12d5ef9-OB,Desenvolveweb Tecnologia da Informação LTDA (via OB),google.com,INTERMEDIARY,0,name: 'Desenvolveweb Tecnologia da Informa??o LTDA (via OB)' → 'Desenvolveweb Tecnologia da Informação LTDA (via OB)'
+2026-11-20,OneTag,changed,76ac2c66bee3b15-OB,AS Õhtuleht Kirjastus (via OB),google.com,INTERMEDIARY,0,name: 'AS ?htuleht Kirjastus (via OB)' → 'AS Õhtuleht Kirjastus (via OB)'
+2026-11-20,OneTag,changed,76d1dc8fc7af78b-OB,Chatwork株式会社 (via OB),google.com,INTERMEDIARY,0,name: 'Chatwork???? (via OB)' → 'Chatwork株式会社 (via OB)'
+2026-11-20,OneTag,changed,76f5c4145dce376-OB,Estetik Yayıncılık A.S. (via OB),google.com,INTERMEDIARY,0,name: 'Estetik Yay?nc?l?k A.S. (via OB)' → 'Estetik Yayıncılık A.S. (via OB)'
+2026-11-20,OneTag,changed,7700154af54af44-OB,Tempo24 Basın Yayın Prodüksiyon Limited Şti (via OB),google.com,INTERMEDIARY,0,name: 'Tempo24 Bas?n Yay?n Prod?ksiyon Limited ?ti (via OB)' → 'Tempo24 Basın Yayın Prodüksiyon Limited Şti (via OB)'
+2026-11-20,OneTag,changed,770c026e8bf6626-OB,ピクシブ株式会社 (via OB),google.com,INTERMEDIARY,0,name: '???????? (via OB)' → 'ピクシブ株式会社 (via OB)'
+2026-11-20,OneTag,changed,773c455cd358d02-OB,株式会社ネットネイティブ (via OB),google.com,INTERMEDIARY,0,name: '???????????? (via OB)' → '株式会社ネットネイティブ (via OB)'
+2026-11-20,OneTag,changed,7770ee47f632bbe,El Español (Hathor),hathordigital.com,PUBLISHER,0,name: 'El Espa?ol (Hathor)' → 'El Español (Hathor)'
+2026-11-20,OneTag,changed,7770ee47f632bbe-OB,El Español (via OB),google.com,INTERMEDIARY,0,name: 'El Espa?ol (via OB)' → 'El Español (via OB)'
+2026-11-20,OneTag,changed,7799302048aeb51-OB,Dol - intermediacão de Negócios e Portal de Internet Ltda (via OB),google.com,INTERMEDIARY,0,name: 'Dol - intermediac?o de Neg?cios e Portal de Internet Ltda (via OB)' → 'Dol - intermediacão de Negócios e Portal de Internet Ltda (via OB)'
+2026-11-20,OneTag,changed,799e7e2bfde99e6-OB,"Agenzia ANSA – Agenzia Nazionale Stampa Associata – Società Cooperativa, (via OB)",google.com,INTERMEDIARY,0,"name: 'Agenzia ANSA ? Agenzia Nazionale Stampa Associata ? Societ? Cooperativa, (via OB)' → 'Agenzia ANSA – Agenzia Nazionale Stampa Associata – Società Cooperativa, (via OB)'"
+2026-11-20,OneTag,changed,79ad4f24532ee00,Axel Springer España S.A.,axelspringer.es,PUBLISHER,0,name: 'Axel Springer Espa?a S.A.' → 'Axel Springer España S.A.'
+2026-11-20,OneTag,changed,79ad4f24532ee00-OB,Axel Springer España S.A. (via OB),google.com,INTERMEDIARY,0,name: 'Axel Springer Espa?a S.A. (via OB)' → 'Axel Springer España S.A. (via OB)'
+2026-11-20,OneTag,changed,7a33cf6efbf05d3-OB,B.B.JORNALISMO E COMUNICAÇÃO EIRELI - ME (via OB),google.com,INTERMEDIARY,0,name: 'B.B.JORNALISMO E COMUNICA??O EIRELI - ME (via OB)' → 'B.B.JORNALISMO E COMUNICAÇÃO EIRELI - ME (via OB)'
+2026-11-20,OneTag,changed,7a37e410bd2f8eb-OB,Solar Comunicaçoes SA (Tribuna de Minas) (via OB),google.com,INTERMEDIARY,0,name: 'Solar Comunica?oes SA (Tribuna de Minas) (via OB)' → 'Solar Comunicaçoes SA (Tribuna de Minas) (via OB)'
+2026-11-20,OneTag,changed,7a57b8749a71f88,Studio Sol Comunicação Digital LTDA,studiosol.com.br,PUBLISHER,0,name: 'Studio Sol Comunica??o Digital LTDA' → 'Studio Sol Comunicação Digital LTDA'
+2026-11-20,OneTag,changed,7a57b8749a71f88-OB,Studio Sol Comunicação Digital LTDA (via OB),google.com,INTERMEDIARY,0,name: 'Studio Sol Comunica??o Digital LTDA (via OB)' → 'Studio Sol Comunicação Digital LTDA (via OB)'
+2026-11-20,OneTag,changed,7aa884fc497b88f-OB,Le Blogue du Québec inc. (via OB),google.com,INTERMEDIARY,0,name: 'Le Blogue du Qu?bec inc. (via OB)' → 'Le Blogue du Québec inc. (via OB)'
+2026-11-20,OneTag,changed,7aad480bbf18124-OB,Petit futé (via OB),google.com,INTERMEDIARY,0,name: 'Petit fut? (via OB)' → 'Petit futé (via OB)'
+2026-11-20,OneTag,changed,7b01ebe0c9089d2-OB,TEEPR亮新聞 (via OB),google.com,INTERMEDIARY,0,name: 'TEEPR??? (via OB)' → 'TEEPR亮新聞 (via OB)'
+2026-11-20,OneTag,changed,7b8896e5aefcda8-OB,Wydawnictwo INŻYNIERIA sp. z o.o. (via OB),google.com,INTERMEDIARY,0,name: 'Wydawnictwo IN?YNIERIA sp. z o.o. (via OB)' → 'Wydawnictwo INŻYNIERIA sp. z o.o. (via OB)'
+2026-11-20,OneTag,changed,7b94a6723d75e48-OB,Revista Fórum (via OB),google.com,INTERMEDIARY,0,name: 'Revista F?rum (via OB)' → 'Revista Fórum (via OB)'
+2026-11-20,OneTag,changed,7bc9e9288625501-OB,Oscar García Mendoza  (via OB),google.com,INTERMEDIARY,0,name: 'Oscar Garc?a Mendoza  (via OB)' → 'Oscar García Mendoza  (via OB)'
+2026-11-20,OneTag,changed,7bdb15b38044b6c-OB,北京众图互动科技有限公司 (via OB),google.com,INTERMEDIARY,0,name: '???????????? (via OB)' → '北京众图互动科技有限公司 (via OB)'
+2026-11-20,OneTag,changed,7c171a1f10eeed0-OB,"TTV CULTURAL ENTERPRISE LTD,  (via OB)",google.com,INTERMEDIARY,0,"name: 'TTV CULTURAL ENTERPRISE LTD,? (via OB)' → 'TTV CULTURAL ENTERPRISE LTD,\xa0 (via OB)'"
+2026-11-20,OneTag,changed,7ca85b00c40a8fc-OB,Karma Sosyal Bilişim ve Teknoloji Anonim Şirketi (via OB),google.com,INTERMEDIARY,0,name: 'Karma Sosyal Bili?im ve Teknoloji Anonim ?irketi (via OB)' → 'Karma Sosyal Bilişim ve Teknoloji Anonim Şirketi (via OB)'
+2026-11-20,OneTag,changed,7cef00eba5ca8a0-OB,El País S.A-OB,google.com,INTERMEDIARY,0,name: 'El Pa?s S.A-OB' → 'El País S.A-OB'
+2026-11-20,OneTag,changed,7d2876d27b701a8-OB,DETECTİVE STUDİO-OB,google.com,INTERMEDIARY,0,name: 'DETECT?VE STUD?O-OB' → 'DETECTİVE STUDİO-OB'
+2026-11-20,OneTag,changed,7d7f8205f0101d0-OB,Deguci Games Bilişim Teknolojileri Limited Şirketi-OB,google.com,INTERMEDIARY,0,name: 'Deguci Games Bili?im Teknolojileri Limited ?irketi-OB' → 'Deguci Games Bilişim Teknolojileri Limited Şirketi-OB'
+2026-11-20,OneTag,changed,7e06a15ad6d5ce4-OB,Organización Editorial Mexicana-OB,google.com,INTERMEDIARY,0,name: 'Organizaci?n Editorial Mexicana-OB' → 'Organización Editorial Mexicana-OB'
+2026-11-20,OneTag,changed,7e18ffe886538d8-OB,La vem o ônibus-OB,google.com,INTERMEDIARY,0,name: 'La vem o ?nibus-OB' → 'La vem o ônibus-OB'
+2026-11-20,OneTag,changed,7e3ea64d3c0c466,Godò Strategies,grupogodo.com,PUBLISHER,0,name: 'God? Strategies' → 'Godò Strategies'
+2026-11-20,OneTag,changed,7e3ea64d3c0c466-OB,Godò Strategies-OB,google.com,INTERMEDIARY,0,name: 'God? Strategies-OB' → 'Godò Strategies-OB'
+2026-11-20,OneTag,changed,7e44e0e4e739c68-OB,G21 Comunicación-OB,google.com,INTERMEDIARY,0,name: 'G21 Comunicaci?n-OB' → 'G21 Comunicación-OB'
+2026-11-20,OneTag,changed,7e5f6739f16fad5-OB,走著瞧股份有限公司 Gogolook-OB,google.com,INTERMEDIARY,0,name: '????????? Gogolook-OB' → '走著瞧股份有限公司 Gogolook-OB'
+2026-11-20,OneTag,changed,7eeae39fd0686e0-OB,AS Äripäev-OB,google.com,INTERMEDIARY,0,name: 'AS ?rip?ev-OB' → 'AS Äripäev-OB'
+2026-11-20,OneTag,changed,7efd1d5a4acb431-OB,BirGün Gazetecilik-OB,google.com,INTERMEDIARY,0,name: 'BirG?n Gazetecilik-OB' → 'BirGün Gazetecilik-OB'
+2026-11-20,OneTag,changed,7f9f90276605b6a-OB,market kampanyaları-OB,google.com,INTERMEDIARY,0,name: 'market kampanyalar?-OB' → 'market kampanyaları-OB'
+2026-11-20,OneTag,changed,7fd5c9632849f28-OB,He2 Yazilim ve Oyun Teknolojileri Ltd. Şti.-OB,google.com,INTERMEDIARY,0,name: 'He2 Yazilim ve Oyun Teknolojileri Ltd. ?ti.-OB' → 'He2 Yazilim ve Oyun Teknolojileri Ltd. Şti.-OB'
+2026-11-20,OneTag,changed,8011facc368df30-OB,Unión Editorialista-OB,google.com,INTERMEDIARY,0,name: 'Uni?n Editorialista-OB' → 'Unión Editorialista-OB'
+2026-11-20,OneTag,changed,80592b211407ad8-OB,株式会社駅探-OB,google.com,INTERMEDIARY,0,name: '??????-OB' → '株式会社駅探-OB'
+2026-11-20,OneTag,changed,812a566d9bf1dfb-OB,"LLC “Ukrainian Business Technologies” Company address  st. Grigory Skovoroda, 21/16, Kyiv, 0-OB",google.com,INTERMEDIARY,0,"name: 'LLC ?Ukrainian Business Technologies? Company address  st. Grigory Skovoroda, 21/16, Kyiv, 0-OB' → 'LLC “Ukrainian Business Technologies” Company address  st. Grigory Skovoroda, 21/16, Kyiv, 0-OB'"
+2026-11-20,OneTag,changed,815109d2c2fad0e-OB,ZUZANNA STAŃSKA MOISEUM-OB,google.com,INTERMEDIARY,0,name: 'ZUZANNA STA?SKA MOISEUM-OB' → 'ZUZANNA STAŃSKA MOISEUM-OB'
+2026-11-20,OneTag,changed,8197786b78405f3-OB,Pablo Gallego Falcón-OB,google.com,INTERMEDIARY,0,name: 'Pablo Gallego Falc?n-OB' → 'Pablo Gallego Falcón-OB'
+2026-11-20,OneTag,changed,81a19b69624cd58-OB,Van Másik Zrt.-OB,google.com,INTERMEDIARY,0,name: 'Van M?sik Zrt.-OB' → 'Van Másik Zrt.-OB'
+2026-11-20,OneTag,changed,8214d5f98ce6c9e-OB,Atisoft Teknoloji Limited Şiirketi-OB,google.com,INTERMEDIARY,0,name: 'Atisoft Teknoloji Limited ?iirketi-OB' → 'Atisoft Teknoloji Limited Şiirketi-OB'
+2026-11-20,OneTag,changed,827de52a1281d84-OB,Le Café Du Geek-OB,google.com,INTERMEDIARY,0,name: 'Le Caf? Du Geek-OB' → 'Le Café Du Geek-OB'
+2026-11-20,OneTag,changed,83fe82a761541b0-OB,Nexcore Studios Oyun Ve Yazılım Ticaret Pazarlama Limited Şirketi-OB,google.com,INTERMEDIARY,0,name: 'Nexcore Studios Oyun Ve Yaz?l?m Ticaret Pazarlama Limited ?irketi-OB' → 'Nexcore Studios Oyun Ve Yazılım Ticaret Pazarlama Limited Şirketi-OB'
+2026-11-20,OneTag,changed,84c36536794acac-OB,"Premsa d´Osona, SA.-OB",google.com,INTERMEDIARY,0,"name: 'Premsa d?Osona, SA.-OB' → 'Premsa d´Osona, SA.-OB'"
+2026-11-20,OneTag,changed,853d340cedb73b6-OB,BGG/Wybór Kierowców-OB,google.com,INTERMEDIARY,0,name: 'BGG/Wyb?r Kierowc?w-OB' → 'BGG/Wybór Kierowców-OB'
+2026-11-20,OneTag,changed,891f8e5f85e25f0-OB,Istoé Publicações-OB,google.com,INTERMEDIARY,0,name: 'Isto? Publica??es-OB' → 'Istoé Publicações-OB'
+2026-11-20,OneTag,changed,89b57c75a7f3628-OB,Martin Schlüter-OB,google.com,INTERMEDIARY,0,name: 'Martin Schl?ter-OB' → 'Martin Schlüter-OB'
+2026-11-20,OneTag,changed,89c2cddcd7d6e88-OB,Michał Stachyra Bizo Mobile - Aplikacje Mobilne-OB,google.com,INTERMEDIARY,0,name: 'Micha? Stachyra Bizo Mobile - Aplikacje Mobilne-OB' → 'Michał Stachyra Bizo Mobile - Aplikacje Mobilne-OB'
+2026-11-20,OneTag,changed,8a133f2c9c33814-OB,"Tecno Media Comunicación, S.L-OB",google.com,INTERMEDIARY,0,"name: 'Tecno Media Comunicaci?n, S.L-OB' → 'Tecno Media Comunicación, S.L-OB'"
+2026-11-20,OneTag,changed,8a4ea3c60a8218a-OB,Público-OB,google.com,INTERMEDIARY,0,name: 'P?blico-OB' → 'Público-OB'
+2026-11-20,OneTag,changed,8a743e77404a28e-OB,Grupo Conexión Migrante -OB,google.com,INTERMEDIARY,0,name: 'Grupo Conexi?n Migrante -OB' → 'Grupo Conexión Migrante -OB'
+2026-11-20,OneTag,changed,8c23162c95ac2b8-OB,深圳市千洋网络有限公司-OB,google.com,INTERMEDIARY,0,name: '???????????-OB' → '深圳市千洋网络有限公司-OB'
+2026-11-20,OneTag,changed,8c8e227ac9efa34-OB,北京钛核互动信息技术有限公司-OB,google.com,INTERMEDIARY,0,name: '??????????????-OB' → '北京钛核互动信息技术有限公司-OB'
+2026-11-20,OneTag,changed,8cea37ae11a426c-OB,EMPRESA PERIODÍSTICA BÍO BÍO LTDA. -OB,google.com,INTERMEDIARY,0,name: 'EMPRESA PERIOD?STICA B?O B?O LTDA. -OB' → 'EMPRESA PERIODÍSTICA BÍO BÍO LTDA. -OB'
+2026-11-20,OneTag,changed,8d1a21d3fd3244a-OB,Televisión Litoral SA-OB,google.com,INTERMEDIARY,0,name: 'Televisi?n Litoral SA-OB' → 'Televisión Litoral SA-OB'
+2026-11-20,OneTag,changed,8d6f17022c35fbf-OB,COMPAÑÍA LATINOAMERICANA DE RADIODIFUSION S.A-OB,google.com,INTERMEDIARY,0,name: 'COMPA??A LATINOAMERICANA DE RADIODIFUSION S.A-OB' → 'COMPAÑÍA LATINOAMERICANA DE RADIODIFUSION S.A-OB'
+2026-11-20,OneTag,changed,8e6575eef7cfbe0-OB,MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş.-OB,google.com,INTERMEDIARY,0,name: 'MACKOL?K ?NTERNET H?ZMETLER? T?CARET A.?.-OB' → 'MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş.-OB'
+2026-11-20,OneTag,changed,8eb6b3b3070b038-OB,Rollic Games Oyun Yazılım ve Pazarlama Anonim Şirketi-OB,google.com,INTERMEDIARY,0,name: 'Rollic Games Oyun Yaz?l?m ve Pazarlama Anonim ?irketi-OB' → 'Rollic Games Oyun Yazılım ve Pazarlama Anonim Şirketi-OB'
+2026-11-20,OneTag,changed,924071fb48d0af3-OB,Oslobođenje servisi d.o.o.-OB,google.com,INTERMEDIARY,0,name: 'Oslobo?enje servisi d.o.o.-OB' → 'Oslobođenje servisi d.o.o.-OB'
+2026-11-20,OneTag,changed,926b034867b0aa0-OB,Wojciech Banaś-OB,google.com,INTERMEDIARY,0,name: 'Wojciech Bana?-OB' → 'Wojciech Banaś-OB'
+2026-11-20,OneTag,changed,928999b5e155076-OB,Agência Entre Aspas-OB,google.com,INTERMEDIARY,0,name: 'Ag?ncia Entre Aspas-OB' → 'Agência Entre Aspas-OB'
+2026-11-20,OneTag,changed,92977fcaade6fe4-OB,Confraria da Informação-OB,google.com,INTERMEDIARY,0,name: 'Confraria da Informa??o-OB' → 'Confraria da Informação-OB'
+2026-11-20,OneTag,changed,929b3ab1b54aed1-OB,株式会社未曾有-OB,google.com,INTERMEDIARY,0,name: '???????-OB' → '株式会社未曾有-OB'
+2026-11-20,OneTag,changed,92d0b46809a2c6a,Publiespaña,mediaset.es,PUBLISHER,0,name: 'Publiespa?a' → 'Publiespaña'
+2026-11-20,OneTag,changed,93550c655464eac-OB,Havnør Holding-OB,google.com,INTERMEDIARY,0,name: 'Havn?r Holding-OB' → 'Havnør Holding-OB'
+2026-11-20,OneTag,changed,935d4b4a7eb39cd,ONEDİO BİLİŞİM YAZILIM MEDYA TEKNOLOJİ SAN. VE TİC. A.Ş.,onedio.com,PUBLISHER,0,name: 'ONED?O B?L???M YAZILIM MEDYA TEKNOLOJ? SAN. VE T?C. A.?.' → 'ONEDİO BİLİŞİM YAZILIM MEDYA TEKNOLOJİ SAN. VE TİC. A.Ş.'
+2026-11-20,OneTag,changed,935d4b4a7eb39cd-OB,ONEDİO BİLİŞİM YAZILIM MEDYA TEKNOLOJİ SAN. VE TİC. A.Ş.-OB,google.com,INTERMEDIARY,0,name: 'ONED?O B?L???M YAZILIM MEDYA TEKNOLOJ? SAN. VE T?C. A.?.-OB' → 'ONEDİO BİLİŞİM YAZILIM MEDYA TEKNOLOJİ SAN. VE TİC. A.Ş.-OB'
+2026-11-20,OneTag,changed,93e9fdef992c63a-OB,شركة وطن الفضائية للبث / Watan Broadcast satellite-OB,google.com,INTERMEDIARY,0,name: '???? ??? ???????? ???? / Watan Broadcast satellite-OB' → 'شركة وطن الفضائية للبث / Watan Broadcast satellite-OB'
+2026-11-20,OneTag,changed,93ec794c96bdd08-OB,Infinità Game Studio-OB,google.com,INTERMEDIARY,0,name: 'Infinit? Game Studio-OB' → 'Infinità Game Studio-OB'
+2026-11-20,OneTag,changed,94103b12423eec8-OB,Finceptiv OÜ-OB,google.com,INTERMEDIARY,0,name: 'Finceptiv O?-OB' → 'Finceptiv OÜ-OB'
+2026-11-20,OneTag,changed,943c5f54cb25088-OB,Sportfåne Sverige AB-OB,google.com,INTERMEDIARY,0,name: 'Sportf?ne Sverige AB-OB' → 'Sportfåne Sverige AB-OB'
+2026-11-20,OneTag,changed,94ca6764a031ad7-OB,Camille d'Alméras-OB,google.com,INTERMEDIARY,0,"name: ""Camille d'Alm?ras-OB"" → ""Camille d'Alméras-OB"""
+2026-11-20,OneTag,changed,95137789e86310f-OB,Vignoli Comunicação Ltda (via OB),google.com,INTERMEDIARY,0,name: 'Vignoli Comunica??o Ltda (via OB)' → 'Vignoli Comunicação Ltda (via OB)'
+2026-11-20,OneTag,changed,9598820ba4b539d,RHM Interactive OÜ,twoplayergames.org,PUBLISHER,0,name: 'RHM Interactive O?' → 'RHM Interactive OÜ'
+2026-11-20,OneTag,changed,96a735e2e8bc400-OB,NavTechs©-OB,google.com,INTERMEDIARY,0,name: 'NavTechs?-OB' → 'NavTechs©-OB'
+2026-11-20,OneTag,changed,96e91989490b820-OB,SIA Žurnāls Santa-OB,google.com,INTERMEDIARY,0,name: 'SIA ?urn?ls Santa-OB' → 'SIA Žurnāls Santa-OB'
+2026-11-20,OneTag,changed,9705a1c92b8d2b8,AS Õhtuleht Kirjastus,ohtuleht.ee,PUBLISHER,0,name: 'AS ?htuleht Kirjastus' → 'AS Õhtuleht Kirjastus'
+2026-11-20,OneTag,changed,9763a27556eb88f-OB,Marília Notícia-OB,google.com,INTERMEDIARY,0,name: 'Mar?lia Not?cia-OB' → 'Marília Notícia-OB'
+2026-11-20,Sharethrough,added,6078-OB,Gumtree (via OB),google.com,INTERMEDIARY,0,
+2026-11-20,Sharethrough,removed,5432-OB,We Are 365 LATAM (via OB),google.com,INTERMEDIARY,0,
+2026-11-20,Sharethrough,changed,6078,Gumtree,gumtree.com,PUBLISHER,0,seller_type: 'INTERMEDIARY' → 'PUBLISHER'
+2026-11-20,Smaato,removed,1100052764,EB DFp-GLIM s.r.o.(pub-6074847014533767),google.com,INTERMEDIARY,0,
+2026-11-20,Smaato,removed,1100054146,EB Admob-GRADAIVE Simon(pub-5761034186877085),google.com,INTERMEDIARY,0,
+2026-11-20,Smaato,removed,1100054628,pub-1220102927302670,google.com,INTERMEDIARY,0,
+2026-11-20,Smaato,removed,1100056171,EB DFP-Diaspora Media Network(pub-4902529926260379),google.com,INTERMEDIARY,0,
+2026-11-20,Smaato,removed,1100056219,Raventurn Games Gmbh,google.com,INTERMEDIARY,0,
+2026-11-20,Smaato,removed,1100058981,EB DFP - Zen Studios Ltd. (pub-6509530446929301),google.com,INTERMEDIARY,0,
+2026-11-20,E-Planning,added,29938e8452aa889a,"Prensa Iberica 360, S.L.U.",prensaiberica.es,PUBLISHER,0,
+2026-11-20,E-Planning,removed,abe78ff26ace8271,"GRUPO ACIR NACIONAL, S.A. DE C.V.",acironline.mx,PUBLISHER,0,
+2026-11-20,E-Planning,changed,1822520af30cf0b5,Moneytag SAS,moneytag.fr,PUBLISHER,0,seller_type: 'BOTH' → 'PUBLISHER'
+2026-11-20,E-Planning,changed,f5d5c92d24690f3e,Business On Web LLC dba YourBow,yourbow.com,PUBLISHER,0,seller_type: 'BOTH' → 'PUBLISHER'
+2026-11-20,Improve Digital,added,1602_103561,Yuki Ariyoshi,gameanalyze.com,PUBLISHER,0,
+2026-11-20,Improve Digital,added,1602_106501,R.C Ooms,call4cloud.nl,PUBLISHER,0,
+2026-11-20,Improve Digital,added,1602_110716,Raul Bas,academiadeoniromancia.com,PUBLISHER,0,
+2026-11-20,Improve Digital,added,1602_27239,Francisco Lora Burguillos,sevillanadelimpieza.com,PUBLISHER,0,
+2026-11-20,Improve Digital,added,1602_54172,,kokorootakusama.com,PUBLISHER,0,
+2026-11-20,Improve Digital,added,1602_78126,Kussmann & Kussmann GbR,aktuellinformiert.de,PUBLISHER,0,
+2026-11-20,Improve Digital,added,1602_88368,HARUTYUN AYVAZYAN,travel-memories.net,PUBLISHER,0,
+2026-11-20,Improve Digital,added,3070,Sway LLP,harrenmedia.com,INTERMEDIARY,0,
+2026-11-20,Improve Digital,added,3071,CLYDO SOLUTIONS LTD,clydo.io,INTERMEDIARY,0,
+2026-11-20,Improve Digital,added,3072,WMG International Inc.,adwmg.com,INTERMEDIARY,0,
+2026-11-20,Improve Digital,added,545_19116,Alexander Filuk,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42927,Marev Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42929,Eslam Negm,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42930,VZGO,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42931,Pablov Software,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42932,Gorber Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42933,Larbin,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42934,Ege Gültekin,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42935,Berkay Tuğrul,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42936,Mameo Galaxy,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42937,Abyss,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42938,ZhudaAndZhuer,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42939,NS Studios,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42940,ZombieNook,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42941,Raibatsu Co.,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42942,RETROGUY,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42943,Gonçalo,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42944,Uplighter Tech,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42945,Hydraware,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42946,MD Store,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42947,Galatrix.com,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42948,TARC Solutions,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42949,DeakandFam,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42950,Remache Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42951,Wire & Words,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42952,Boloko Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42953,Dot Brawl Studio,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42954,Capericonic,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42955,Taotuan,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42956,Dntech7Consulting,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42957,Troiza,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42958,Leyl Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42959,TomatoStudio,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42960,sobosuba,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42961,BTA Labs,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42962,MyIgrodvor,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42963,MatTalNet,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42964,Lagoon Arcade,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42965,ZENO GAMES,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42966,after school,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42967,melotap,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42968,Aigamestudio,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42969,LeDeuxions,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42970,ProVision,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42971,Syko Game Studio,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42972,dalgeom,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42973,INERTIA GAMES,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42974,EinarsGames,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42975,Yun7420,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42976,KRYPTOVYN,,PUBLISHER,0,
+2026-11-20,Improve Digital,added,545_42977,Axeri Labs Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_100623,Cameroun Actuel,camerounactuel.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_103897,PIONEERFOODS,himeji-lab.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_123415,Salman Muhammad,namerse.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_124633,Mehdi ABOURADI,2roue.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_130153,Takuma Ikeda,sarusarugame.blog,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_16362,Adrián Caóada Cruz,shuajota.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_48923,Alexander Burakovskiy,nomis.com.ua,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_5528,CHERRY FOR LIFE SCIENCE,obesite.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_59563,MGA Intermedia GmbH,masspass.de,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_6320,Alexis Maneuf,xboxracer.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_7880,José González,numismaticodigital.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_82953,Eduardo Manola,themoviescores.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_8408,Associazione La Voce di Manduria,lavocedimanduria.it,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_88228,Michel Rieck,riecks-filmkritiken.de,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,1602_99170,"FasterSkier, INC.",fasterskier.com,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_24306,game fun,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_28283,Duyen,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40525,Sun Moon Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40526,GameVelora,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40528,Fahar Abbas,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40529,VENOGAME,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40530,Burger Edition,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40531,AfroPop Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40532,OCCUPY,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40533,Anyigame,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40534,TN610,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40535,Jazgaming,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40536,Ksenon Music Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40537,Ovemora,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40538,bandi games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40539,Solo Soft Ltd,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40540,MobX GmbH,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40541,FizGame,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40542,Mondo Studios,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40543,QuantumPlay,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40544,FOP HUBSKA OKSANA IHORIVNA,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40545,Ezoic Live,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40546,Greedwood Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40548,TheRightHemisphere,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40549,myGeoChallenge,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40550,The Daily Briefing,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40551,Motrix Forge,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40552,crevign it service,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40553,Willy Muñoz,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40554,UVTechnoLab,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40555,MCR,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40556,SkunkStudiosOld,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40557,Atlas Ally,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40560,Cacao Mobile,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40561,LOW,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40562,Little Loop Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40563,fsdfsdf,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40564,BMTCODEX,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40565,Chucha Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40567,naim,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40569,Feela,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40570,Puntox,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40571,JASG Game Developer,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40572,BeraByte Studio,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40573,Skunk Studios,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40574,Mobicore,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40575,.....,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40576,Daniel corner,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40577,"HEZHONG TONGHUI CO., LIMITED",,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40578,gaetanox,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40579,GrandMax,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40580,band,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40581,ARTiFACTS,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40582,Looty Play and Earn,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40583,Valier Games,,PUBLISHER,0,
+2026-11-20,Improve Digital,removed,545_40584,Boots & Co.,,PUBLISHER,0,
+2026-11-20,Improve Digital,changed,1602_15165,EIKON COMUNICAZIONE SAS di Sandro Trabucco,pescaffare.com,PUBLISHER,0,domain: 'vendiauto.com' → 'pescaffare.com'
+2026-11-20,Improve Digital,changed,1602_19367,Manganella Almerico,footballultimateteam.com,PUBLISHER,0,domain: 'footballultimateteam.it' → 'footballultimateteam.com'
+2026-11-20,Improve Digital,changed,1602_86267,Abdul Haseeb,saber-rattling.com,PUBLISHER,0,domain: 'healtytipz.com' → 'saber-rattling.com'
+2026-11-20,InMobi,added,35bafd217d5d4e5eb376188654af857b,MadOut Games L.L.C-FZ,madoutgames.com,PUBLISHER,0,
+2026-11-20,InMobi,added,6cc8313aa8044cb7b8784b0517789990,sports2i,sports2i.com,PUBLISHER,0,
+2026-11-20,InMobi,changed,e82e984d037a4c00806c982c1b1532f6,Affiliated Apps LLC,affiliatedapps.com,PUBLISHER,0,name: 'Byzantine Apps LLC' → 'Affiliated Apps LLC'; domain: 'byzantineapps.io' → 'affiliatedapps.com'
+2026-11-20,Ogury,added,1c25c4b2-488f-4244-a055-63b98a9f2581,"U.S. News & World Report, L.P.",usnews.com,PUBLISHER,0,
+2026-11-20,Ogury,added,94b07b20-e831-4b20-abe4-d423074cc9a7,Adtech Lab d.o.o.,adtechlab.eu,INTERMEDIARY,0,
+2026-11-20,Ogury,removed,fdc78f32-d119-48dd-912e-e8dd096b8fe3,Online Publishing Ventures LLC,gbadnetwork.com,PUBLISHER,0,
+2026-11-20,Seedtag,added,6aedfe6dd5573bbd348a0bf6,"Broad Solutions, LLC",broadsolutionsgroup.com,PUBLISHER,0,
+2026-11-20,Seedtag,added,6afc9adcc54c535af5487db7,"Nexstar Media Group, Inc.",nexstar.tv,PUBLISHER,0,
+2026-11-20,Seedtag,added,6aff17a0c5e6526b73b7ee5a,M.D. Primis Technologies Ltd,primis.tech,INTERMEDIARY,0,
+2026-11-20,Seedtag,added,6aff34486429ce4d278b8be8,Camico LLC,camico.io,INTERMEDIARY,0,
+2026-11-20,Seedtag,added,6aff4d491304b166bd5b3676,"zMaticoo, Inc.",zmaticoo.com,PUBLISHER,0,
+2026-11-20,Seedtag,changed,5b3f913599a2d50700a76e76,Sunmedia Italia S.r.l,talksmedia.it,INTERMEDIARY,0,name: 'Pubtech SRL' → 'Sunmedia Italia S.r.l'
+2026-11-20,Triton Digital,changed,196113,Display.io,www.display.io,INTERMEDIARY,0,seller_type: 'PUBLISHER' → 'INTERMEDIARY'
+2026-11-20,Index Exchange,added,222074,AutoScout24 GmbH,autoscout24.com,PUBLISHER,0,
+2026-11-20,Index Exchange,changed,195698,France Television,francetvpub.fr,BOTH,0,seller_type: 'PUBLISHER' → 'BOTH'
