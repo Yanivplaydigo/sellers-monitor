@@ -1,148 +1,126 @@
-*sellers.json monitor — 2026-11-24*
+*sellers.json monitor — 2026-11-25*
 
-🔔 Magnite (Rubicon Project): +7 added, −9 removed, ~0 changed (3,319 → 3,317)
+🔔 Magnite (Rubicon Project): +12 added, −2 removed, ~0 changed (3,317 → 3,327)
 ✅ Xandr (AppNexus): no changes (1,415 sellers)
-🔔 TripleLift: +2 added, −0 removed, ~1 changed (8,008 → 8,010)
-🔔 OpenX: +19 added, −1 removed, ~0 changed (8,122 → 8,140)
-🔔 Equativ: +1 added, −0 removed, ~0 changed (2,737 → 2,738)
-🔔 PubMatic: +2 added, −0 removed, ~1 changed (6,544 → 6,546)
-🔔 Media.net: +3 added, −3 removed, ~2 changed (2,854 → 2,854)
-✅ FreeWheel: no changes (1,882 sellers)
+🔔 TripleLift: +0 added, −0 removed, ~1 changed (8,010 → 8,010)
+🔔 OpenX: +18 added, −0 removed, ~0 changed (8,140 → 8,158)
+🔔 Equativ: +1 added, −3 removed, ~0 changed (2,738 → 2,736)
+🔔 PubMatic: +1 added, −0 removed, ~1 changed (6,546 → 6,547)
+🔔 Media.net: +3 added, −1 removed, ~0 changed (2,854 → 2,856)
+🔔 FreeWheel: +2 added, −2 removed, ~0 changed (1,882 → 1,882)
 ✅ Zeta Global: no changes (158 sellers)
-🔔 LoopMe: +39 added, −0 removed, ~1 changed (8,646 → 8,685)
-✅ Epsilon (Conversant): no changes (1,126 sellers)
-✅ Adform: no changes (688 sellers)
-🔔 Nexxen: +6 added, −0 removed, ~2 changed (1,606 → 1,612)
+✅ LoopMe: no changes (8,685 sellers)
+🔔 Epsilon (Conversant): +2 added, −0 removed, ~1 changed (1,126 → 1,128)
+🔔 Adform: +0 added, −0 removed, ~2 changed (688 → 688)
+🔔 Nexxen: +0 added, −0 removed, ~3 changed (1,612 → 1,612)
 ✅ Consumable: no changes (153 sellers)
-🔔 Criteo: +0 added, −1 removed, ~1 changed (1,703 → 1,702)
+✅ Criteo: no changes (1,702 sellers)
 ⚠️ Sonobi: could not download sellers.json
 ✅ Bright Mountain Media: no changes (170 sellers)
 ✅ Sovrn: no changes (7,364 sellers)
-🔔 OneTag: +8 added, −2 removed, ~1 changed (2,359 → 2,365)
+🔔 OneTag: +6 added, −5 removed, ~0 changed (2,365 → 2,366)
 ✅ Sharethrough: no changes (5,239 sellers)
-🔔 Smaato: +1 added, −13 removed, ~0 changed (2,808 → 2,796)
-🔔 PubNative: +0 added, −0 removed, ~1 changed (2,907 → 2,907)
-🔔 E-Planning: +1 added, −0 removed, ~0 changed (252 → 253)
-🔔 Improve Digital: +7 added, −40 removed, ~2 changed (20,489 → 20,456)
-🔔 InMobi: +2 added, −2 removed, ~0 changed (3,237 → 3,237)
-🔔 Ogury: +1 added, −3 removed, ~5 changed (864 → 862)
-🔔 33Across: +1 added, −0 removed, ~0 changed (2,179 → 2,180)
+🔔 Smaato: +0 added, −21 removed, ~0 changed (2,796 → 2,775)
+🔔 PubNative: +2 added, −0 removed, ~0 changed (2,907 → 2,909)
+✅ E-Planning: no changes (253 sellers)
+🔔 Improve Digital: +26 added, −101 removed, ~27 changed (20,456 → 20,381)
+🔔 InMobi: +2 added, −2 removed, ~2 changed (3,237 → 3,237)
+🔔 Ogury: +3 added, −2 removed, ~0 changed (862 → 863)
+🔔 33Across: +0 added, −0 removed, ~1 changed (2,180 → 2,180)
 ✅ Apester: no changes (406 sellers)
-🔔 Seedtag: +1 added, −0 removed, ~2 changed (1,171 → 1,172)
-🔔 Triton Digital: +0 added, −1 removed, ~0 changed (486 → 485)
-🔔 Index Exchange: +3 added, −7 removed, ~0 changed (4,049 → 4,045)
+🔔 Seedtag: +2 added, −0 removed, ~0 changed (1,172 → 1,174)
+✅ Triton Digital: no changes (485 sellers)
+🔔 Index Exchange: +2 added, −0 removed, ~0 changed (4,045 → 4,047)
 ⚠️ Yieldmo: could not download sellers.json
 
 ### Magnite (Rubicon Project)
-*Added (7)*
-• `11388` Nikkei Business Publications, Inc. | nikkeibp.com | PUBLISHER
-• `11562` Flavorpill Productions, LLC | flavorpill.com | PUBLISHER
-• `15090` SoftSchools LLC | softschools.com | PUBLISHER
-• `16376` West Australian Newspapers | sevenwestmedia.com.au | PUBLISHER
-• `23522` Boutique Audience Network LLC | boutiqueaudience.com | INTERMEDIARY
-• `29037` MoveUp | movingup.it | INTERMEDIARY
-• `29235` Arena Kom OOD | gsmarena.com | PUBLISHER
-*Removed (9)*
-• `12280` Livesport Media Ltd | livesportmedia.eu | PUBLISHER
-• `12902` e-Mídia Informações Ltda | e-midia.com | PUBLISHER
-• `16578` DistroScale | distroscale.com | INTERMEDIARY
-• `20416` ONOMAGIC LTD | onomagic.com | INTERMEDIARY
-• `20418` Google | google.com | INTERMEDIARY
-• `20470` United Online Advertising Network | unitedonline.net | PUBLISHER
-• `20844` Google | google.com | INTERMEDIARY
-• `24010` Cortex Media Group Ltd | cortexmg.com | PUBLISHER
-• `24364` GetMedia LLC | getmediamx.com | INTERMEDIARY
+*Added (12)*
+• `10888` DELTA Advertising GmbH | mairdumont-netletix.com | PUBLISHER
+• `16842` Bloomjoy Inc. | neoncantina.com | PUBLISHER
+• `17362` TRES EDITORIAL LTDA | editora3.com.br | PUBLISHER
+• `19684` Ebony Media Operations | ebony.com | PUBLISHER
+• `19752` CTP limited | sparkmedia.co.za | PUBLISHER
+• `23416` Google | google.com | INTERMEDIARY
+• `24934` SMART COMMUNICATIONS, INC. | smart.com.ph | PUBLISHER
+• `28773` The Weather Company, LLC | weather.com | PUBLISHER
+• `29141` Google | google.com | INTERMEDIARY
+• `29143` Camino Lab LTD | camino-labs.com | BOTH
+• `8238` 6Theory Media, LLC | allkpop.com | PUBLISHER
+• `9148` Gay Ad Network | gayadnetwork.com | INTERMEDIARY
+*Removed (2)*
+• `15344` Women.com | women.com | PUBLISHER
+• `28687` OBYR LTD | obyr.co | INTERMEDIARY
 
 ### TripleLift
-*Added (2)*
-• `14911` RacerTV | racer.com | PUBLISHER
-• `14950-EB` TRIMA NEWS s.r.o. (via EB Network) | google.com | INTERMEDIARY
 *Changed (1)*
-• `13905` domain: 'scoresapp.com' → 'superfansports.com'
+• `14968` domain: 'christianitytoday.com' → 'freestar.com'
 
 ### OpenX
-*Added (19)*
-• `666588613` GAM IBC CORPORATION (via EB) | google.com | INTERMEDIARY
-• `666588620` ADMOB Neo Genesis (via EB) | google.com | INTERMEDIARY
-• `666588624` ADMOB Market Pulse Technologies Private Limited (via EB) | google.com | INTERMEDIARY
-• `666588628` ADMOB Codecell (via EB) | google.com | INTERMEDIARY
-• `666625917` GAM gen media llc (via EB) | google.com | INTERMEDIARY
-• `666625924` GAM Matcha Digital GmbH (via EB) | google.com | INTERMEDIARY
-• `666625931` ADMOB Query OÜ (via EB) | google.com | INTERMEDIARY
-• `666625935` ADMOB S.C. MENTAL HEALTH SOLUTIONS S.R.L. (via EB) | google.com | INTERMEDIARY
-• `666625939` ADMOB Nguyen Duc Lam (via EB) | google.com | INTERMEDIARY
-• `666625943` ADMOB Teorico Autos (via EB) | google.com | INTERMEDIARY
-• `666625947` ADMOB Individual Entrepreneur Kostiantyn Zakharchenko (Faigenbloom) (via EB) | google.com | INTERMEDIARY
-• `666625951` ADMOB Wimzi Games LLC (via EB) | google.com | INTERMEDIARY
-• `666625955` ADMOB DeepCraft (via EB) | google.com | INTERMEDIARY
-• `666625959` ADMOB 2-Super (via EB) | google.com | INTERMEDIARY
-• `666625963` ADMOB Akihiko Hamana (via EB) | google.com | INTERMEDIARY
-• …and 4 more (see reports/changes.csv)
-*Removed (1)*
-• `537140323` Carambola Media Ltd. | carambo.la | INTERMEDIARY
+*Added (18)*
+• `566819222` PUSH Publisher Sales Hub GmbH | publishersaleshub.de | PUBLISHER
+• `667523466` ADMOB ClueBell (via EB) | google.com | INTERMEDIARY
+• `667523471` ADMOB Shaad Dev Studio (via EB) | google.com | INTERMEDIARY
+• `667542452` GAM ASP DESENVOLVIMENTO DE SOFTWARES LTDA (via EB) | google.com | INTERMEDIARY
+• `667542459` ADMOB SleepTech (via EB) | google.com | INTERMEDIARY
+• `667542463` ADMOB FlowMarket (via EB) | google.com | INTERMEDIARY
+• `667542467` ADMOB BitFlap LLC (via EB) | google.com | INTERMEDIARY
+• `667599219` GAM PT Mastah SEO Indonesia (via EB) | google.com | INTERMEDIARY
+• `667599226` ADMOB NewGame.Studio (via EB) | google.com | INTERMEDIARY
+• `667599232` ADMOB Sachin Gupta (via EB) | google.com | INTERMEDIARY
+• `667599236` ADMOB Motexiz (via EB) | google.com | INTERMEDIARY
+• `667599240` ADMOB Ansh Jain Global Networks Private Limited (via EB) | google.com | INTERMEDIARY
+• `667599244` ADMOB SUMARIOS E RESUMOS UN LDA (via EB) | google.com | INTERMEDIARY
+• `667599248` ADMOB 스프 (via EB) | google.com | INTERMEDIARY
+• `667599252` ADMOB Cosmic Taps, S.L. (via EB) | google.com | INTERMEDIARY
+• …and 3 more (see reports/changes.csv)
 
 ### Equativ
 *Added (1)*
-• `6081` limpidctv | limpid.tv | INTERMEDIARY
+• `6082` Genius Sports | geniussports. | INTERMEDIARY
+*Removed (3)*
+• `1041` AdGage | adgage.es | BOTH
+• `1041-OB` AdGage (via OB) | google.com | INTERMEDIARY
+• `3247-OB` Rakuten France (via OB) | google.com | INTERMEDIARY
 
 ### PubMatic
-*Added (2)*
-• `168634` PixOn PTE. LTD | pixon.games | PUBLISHER
-• `168637` Softonic International S.A. | softonic.com | PUBLISHER
+*Added (1)*
+• `168638` Pocket FM Private Limited | pocketfm.com | PUBLISHER
 *Changed (1)*
-• `167592` name: '' → 'Mundial Media Inc.'; domain: '' → 'mundialmedia.com'; seller_type: 'NA' → 'INTERMEDIARY'
+• `168244` domain: 'domob.cn' → 'bluexad.ai'
 
 ### Media.net
 *Added (3)*
-• `8CA27Q5PL` Verve Group, Inc. | verve.com | INTERMEDIARY
-• `8CAXGMDUI` Vital Media Network (via OB) | google.com | INTERMEDIARY
-• `8CU2L2524` Kleinanzeigen | kleinanzeigen.de | PUBLISHER
-*Removed (3)*
-• `8CABL0VTT` Cricbuzz Platforms Limited | cricbuzz.com | PUBLISHER
-• `8CASIIKXH` Cricbuzz Platforms Limited | cricbuzz.com | PUBLISHER
-• `8CUA656DT` Ookla, LLC | ookla.com | PUBLISHER
-*Changed (2)*
-• `8CAV3IKX1` domain: 'lgchannels.com' → 'lgads.tv'
-• `8CAX2RK4W` name: 'FontSpace, LLC' → 'FontSpace, LLC (via OB)'; domain: 'fontspace.com' → 'google.com'; seller_type: 'PUBLISHER' → 'INTERMEDIARY'
+• `8CA25I7L0` HAGIOS TECH, INC. (via OB) | google.com | INTERMEDIARY
+• `8CAK32EDW` Bending Spoons | bendingspoons.com | PUBLISHER
+• `8CAV87YCX` Hearst Communications, Inc. | hearst.com | PUBLISHER
+*Removed (1)*
+• `8CU7Y0Y2Y` Meetscale | flashb.id | INTERMEDIARY
 
-### LoopMe
-*Added (39)*
-• `11597` Matterfull Media Group LLC | bematterfull.com | INTERMEDIARY
-• `13954` Madstream Sp. z o.o | madstream.net | INTERMEDIARY
-• `22383` PT Vidio Dot Com | vidio.com | PUBLISHER
-• `22510` FSBMOBI LIMITED | test.com | PUBLISHER
-• `22618` Beatix Studio | malik900.github.io | PUBLISHER
-• `22619` Six Martlets Ltd | sixmartlets.uk | PUBLISHER
-• `22620` Gameora Limited | gameora.app | PUBLISHER
-• `22623` pinebyte | pinebyte.app | PUBLISHER
-• `22624` Taby | yes-day.kr | PUBLISHER
-• `22625` aiwean | ailiwean.github.io | PUBLISHER
-• `22626` Slavs Team | luguvi.github.io | PUBLISHER
-• `22627` CircleRoll LLC | fijah.com | PUBLISHER
-• `22628` LumeiTechnologyCoLimited | vyssm.top | PUBLISHER
-• `22629` Mayra Ai Pro | github.com | PUBLISHER
-• `22630` RISE WEALTH TECHNOLOGY | dhhoe.top | PUBLISHER
-• …and 24 more (see reports/changes.csv)
+### FreeWheel
+*Added (2)*
+• `546288-d-523319` Kineton s.r.l | kineton.it | PUBLISHER
+• `546288-d-524565` Kineton s.r.l | kineton.it | PUBLISHER
+*Removed (2)*
+• `546288-r-523319` Kineton s.r.l | kineton.it | INTERMEDIARY
+• `546288-r-524565` Kineton s.r.l | kineton.it | INTERMEDIARY
+
+### Epsilon (Conversant)
+*Added (2)*
+• `101363` Sistema Roriz de Comunicacao LTDA | concursosnobrasil.com | PUBLISHER
+• `101364` Fomo TV | fomo-tv.com | BOTH
 *Changed (1)*
-• `11367` name: 'Luna Media' → 'Luna Media Group LLC'
+• `34282` name: 'XIMAD inc.' → 'ZiMAD'
+
+### Adform
+*Changed (2)*
+• `3040` domain: 'oe24.at_at' → 'oe24.at'
+• `3248` name: 'Audience 360' → 'Publifit.com'; domain: 'audience360.com.au' → 'publift.com'; seller_type: 'PUBLISHER' → 'BOTH'
 
 ### Nexxen
-*Added (6)*
-• `202162220` IDM | idmgroup.com | PUBLISHER
-• `257176898` AMANOTES PTE. LTD | amanotes.com | PUBLISHER
-• `352471283` IDM | idmgroup.com | INTERMEDIARY
-• `388946827` Auramedia | auramedia.ad | INTERMEDIARY
-• `453848686` VGAMES PTE. LTD. | vgamestd.com | PUBLISHER
-• `564447710` MAG Interactive | maginteractive.com | PUBLISHER
-*Changed (2)*
-• `476748946` domain: 'thunder-monetize.com' → 'thunder-monetize.ai'
-• `689559416` domain: 'thunder-monetize.com' → 'thunder-monetize.io'
-
-### Criteo
-*Removed (1)*
-• `BIH5U6` Netaddiction S.r.l. | netaddiction.it | BOTH
-*Changed (1)*
-• `I7V9Q1` seller_type: 'PUBLISHER' → 'INTERMEDIARY'
+*Changed (3)*
+• `159603906` domain: 'magicbid' → 'magicbid.ai'
+• `3733085665` domain: 'skymedia.co.uk' → 'sky.com'
+• `898546366` domain: 'skymedia.co.uk' → 'sky.com'
 
 ### ⚠️ Sonobi
 Download failed — kept previous snapshot.
@@ -150,127 +128,130 @@ Download failed — kept previous snapshot.
 - https://www.sonobi.com/sellers.json: HTTPError: HTTP Error 502: Bad Gateway
 
 ### OneTag
-*Added (8)*
-• `97bf937c800a390` Mngmnt | mngmnt.de | BOTH
-• `9859f78ee158818-OB` Joslin Solutions LLC-OB | google.com | INTERMEDIARY
-• `986d4479ee17ffe-OB` sohojuttar.com-OB | google.com | INTERMEDIARY
-• `987b44f2658bb43-OB` 株式会社AppCast（AppCast Inc.）-OB | google.com | INTERMEDIARY
-• `988c6da86b314d6-OB` Creative Friends B.V.-OB | google.com | INTERMEDIARY
-• `988dc504c4d752f-OB` rotter.net Ltd-OB | google.com | INTERMEDIARY
-• `9891c2d672b78cc-OB` Korek Digital Marketing-OB | google.com | INTERMEDIARY
-• `989e0d70acf92f5-OB` IBC CORPORATION-OB | google.com | INTERMEDIARY
-*Removed (2)*
-• `76f797d1430e6dc` Studio ATD, Inc | alltimedigital.com | PUBLISHER
-• `80781415f966caa-OB` Pagelive LLC-OB | google.com | INTERMEDIARY
-*Changed (1)*
-• `8dd8de7f341d57e` domain: 'thunder-monetize.com' → 'thunder-monetize.io'
+*Added (6)*
+• `8d394a7f3424266-OB` RADIO PANAMERICANA S/A-OB | google.com | INTERMEDIARY
+• `92cc03845a5bf08` OmniCalculator | omnicalculator.com | PUBLISHER
+• `979620cde5c3d69` Venatus APP | — | PUBLISHER
+• `982959a232b30c0` PWR- Ads | https://pwr-games.com/sellers.json | BOTH
+• `98828be34367f48-OB` ReVantage GmbH-OB | google.com | INTERMEDIARY
+• `98918c4fd9c3a78-OB` StudioMoob-OB | google.com | INTERMEDIARY
+*Removed (5)*
+• `73c3ac355d1d237` Paylo Limited | paylo.net | PUBLISHER
+• `751def10a27660c` HeyMatic Srl | heymatic.com | INTERMEDIARY
+• `7b98b6f740bbbc0-OB` Yoann Le Briand (via OB) | google.com | INTERMEDIARY
+• `86969cd1bb15234-OB` ams company-OB | google.com | INTERMEDIARY
+• `8df76ed1d09d55e` Arcaneflow LTD | arcaneflow.com | INTERMEDIARY
 
 ### Smaato
-*Added (1)*
-• `1100055548` PiranhaStudios | piranhastudios.co | PUBLISHER
-*Removed (13)*
-• `1100049727` Lexing | lexing.tech | PUBLISHER
-• `1100050896` EB_AdMob_POPS_SG(pub-7844686841643994) | google.com | INTERMEDIARY
-• `1100051264` pub-1239168645353113 | google.com | INTERMEDIARY
-• `1100051411` EB AdMob - Mert Sezer (pub-1302576784366735) | google.com | INTERMEDIARY
-• `1100052201` EB DFP - Moped Army (pub-1076164743575043) | google.com | INTERMEDIARY
-• `1100052835` AdMob_Liew Kuo Ching(pub-9921800903636050) | google.com | INTERMEDIARY
-• `1100052916` EB AdMob - MardukCorp Jan Malte Dittmer (pub-2795376928761168) | google.com | INTERMEDIARY
-• `1100052991` EB Admob-Kelly Technology Inc.(pub-8623506124730140) | google.com | INTERMEDIARY
-• `1100053046` EB DFP - IQVIA Consumer Health (pub-2530338340431570) | google.com | INTERMEDIARY
-• `1100053684` pub-5720757874390436 | google.com | INTERMEDIARY
-• `1100056750` EB AdMob- PineNuts Srls  (pub-9363752369870463) | google.com | INTERMEDIARY
-• `1100057095` TextPlus | textplus.com | PUBLISHER
-• `1100057784` EB AdMob- LOLAGRE SASU (pub-7859374505975855) | google.com | INTERMEDIARY
+*Removed (21)*
+• `1100039200` EB DFP - E-Eighteen.com (1039154) | google.com | INTERMEDIARY
+• `1100040151` EB AdMob - BookDesign | google.com | INTERMEDIARY
+• `1100046553` EB DFP - DQ&A (21827582859) | google.com | INTERMEDIARY
+• `1100047033` EB AdMob - ShenZhen Leyan (pub-7103138417794188) | google.com | INTERMEDIARY
+• `1100047686` EB AdMob - Gamma Play (pub-3407644181076136) | google.com | INTERMEDIARY
+• `1100048850` EB AdMob - 成都捷游科技有限公司 (pub-9829745538476415) | google.com | INTERMEDIARY
+• `1100050071` EB AdMob - Eotec International.inc (pub-1494461539129306) | google.com | INTERMEDIARY
+• `1100050685` AdMob_RyotaYoshida (pub-9247631662995557) | google.com | INTERMEDIARY
+• `1100050738` AdMob_ Gallow (pub-6926992736598604) | google.com | INTERMEDIARY
+• `1100050888` EB Admob-Colonia Software(pub-2101666348794270) | google.com | INTERMEDIARY
+• `1100050906` EB AdMob - Wagner Patrick Thomas (pub-1527574563663935) | google.com | INTERMEDIARY
+• `1100050907` EB Admob-Moonee 2(pub-2758883993016828) | google.com | INTERMEDIARY
+• `1100051073` pub-2001158936418513 | google.com | INTERMEDIARY
+• `1100051074` pub-1419681960483723 | google.com | INTERMEDIARY
+• `1100051109` EB_AdMOb_김대원 (pub-6803275496611225) | google.com | INTERMEDIARY
+• …and 6 more (see reports/changes.csv)
 
 ### PubNative
-*Changed (1)*
-• `1018447` domain: 'anymindgroup.com' → 'anymanager.io'
-
-### E-Planning
-*Added (1)*
-• `caa101de1e2dac26` INTEGRALSTREAM LTD | integralstream.com | INTERMEDIARY
+*Added (2)*
+• `1018456` Project J | dhsthdwjd.github.io | PUBLISHER
+• `1018457` 9dotsMedia | eyeconicspot.com | INTERMEDIARY
 
 ### Improve Digital
-*Added (7)*
-• `3073` Yahoo | yahoo.com | PUBLISHER
-• `3074` Vrtcal | vrtcal.com | INTERMEDIARY
-• `3075` Miniclip | miniclip.com | PUBLISHER
-• `3076` Moon Frog | moonfroglabs.com | PUBLISHER
-• `3077` Smxads | smxads.com | INTERMEDIARY
-• `3078` Pbnx | pbnx.com | INTERMEDIARY
-• `3079` Rise | risecodes.com | INTERMEDIARY
-*Removed (40)*
-• `545_40648` GA Evolution Solutions Inc | — | PUBLISHER
-• `545_40649` snake58 | — | PUBLISHER
-• `545_40650` TechImmersive | — | PUBLISHER
-• `545_40651` Salmonholic | — | PUBLISHER
-• `545_40653` JMX | — | PUBLISHER
-• `545_40654` HoodRich Games | — | PUBLISHER
-• `545_40655` Tranox Studio | — | PUBLISHER
-• `545_40657` Novomatic | — | PUBLISHER
-• `545_40658` 5Eyes | — | PUBLISHER
-• `545_40659` Zemia | — | PUBLISHER
-• `545_40660` Pixel Apollo | — | PUBLISHER
-• `545_40661` Droxnium | — | PUBLISHER
-• `545_40662` Xwh Studio | — | PUBLISHER
-• `545_40663` VoltPlay | — | PUBLISHER
-• `545_40664` kcompany | — | PUBLISHER
-• …and 25 more (see reports/changes.csv)
-*Changed (2)*
-• `545_18200` domain: 'cookieclicker2.io' → 'motox3m.co'
-• `545_30075` domain: 'playvitamahjong.com' → 'fruitninjagame.org'
+*Added (26)*
+• `1602_109087` kouji nakane | tabirin2021.com | PUBLISHER
+• `1602_110114` shionbu miyazaki | himicci.net | PUBLISHER
+• `1602_111843` MABLOUSEBLANCHE | mablouseblanche.fr | PUBLISHER
+• `1602_116132` STEFANO ORLANDO | insidewine.it | PUBLISHER
+• `1602_120221` NTIC AGRI CONSEIL | lameteoagricole.net | PUBLISHER
+• `1602_128097` keiya horiuchi | uchiyakeiblog.com | PUBLISHER
+• `1602_132445` Maël CHEVRIER | dictionnaire-onirique.fr | PUBLISHER
+• `1602_13345` klamm.de | klamm.de | PUBLISHER
+• `1602_133619` Franck Cluzel | objetscaches.com | PUBLISHER
+• `1602_133717` Islami Adnan | today48.com | PUBLISHER
+• `1602_133744` Domenico Moramarco | murgialife.it | PUBLISHER
+• `1602_15918` kochjournal.at | kochjournal.at | PUBLISHER
+• `1602_28766` ISO-GARE di Flavia Miglietta | carlozampa.it | PUBLISHER
+• `1602_40928` Mahla Ravig | best4media.info | PUBLISHER
+• `1602_41365` Era press | koha.net | PUBLISHER
+• …and 11 more (see reports/changes.csv)
+*Removed (101)*
+• `1602_100213` Ronald Guillaumont | profession-gendarme.com | PUBLISHER
+• `1602_100656` Mayumi Muto | omajinai3-24.net | PUBLISHER
+• `1602_105795` Hassan Assaf | keyplain.com | PUBLISHER
+• `1602_112099` World Advisor Srl | ecommercesicuro.com | PUBLISHER
+• `1602_114789` Juan Luis Romero Esquina | aela.es | PUBLISHER
+• `1602_118547` KENICHI MATSUSHIMA | tokyotrendnews2023.com | PUBLISHER
+• `1602_121456` Anderson Pereira | calculadoraonline.com.br | PUBLISHER
+• `1602_124375` Takeshi KOUNO | kojodan.jp | PUBLISHER
+• `1602_127606` Shopping Mega | mega-shopping.it | PUBLISHER
+• `1602_128748` Shinya Owari | subculture-flashbacks.com | PUBLISHER
+• `1602_129382` Andrea Picone | ivalio.it | PUBLISHER
+• `1602_131231` Stefano Pirone | flemma.net | PUBLISHER
+• `1602_132522` Issam Sadiq | cultinfos.com | PUBLISHER
+• `1602_132946` Yoshiki Watanebe | apexlegends-leaksnews.com | PUBLISHER
+• `1602_13416` Davide Allegra | dituttounpop.it | PUBLISHER
+• …and 86 more (see reports/changes.csv)
+*Changed (27)*
+• `1602_100052` domain: 'calcolo-eta.it' → 'welke-week.nl'
+• `1602_105649` domain: 'mbutozone.it' → 'testoeaccordi.it'
+• `1602_108839` domain: 'base-ball-kids.com' → 'oshi-match.com'
+• `1602_110969` domain: 'nintentou.com' → 'marasoku.info'
+• `1602_127821` domain: 'maisonguilouchi.com' → 'palaisdeseoul.fr'
+• `1602_127868` domain: 'mairies-online.com' → 'droledepain.fr'
+• `1602_128653` domain: 'gemeinschaft-energie.de' → 'eintragnews.de'
+• `1602_133664` domain: 'studiescube.com' → 'foocusai.com'
+• `1602_27430` domain: 'frasesdeumcristao.com' → 'brdicastop.com'
+• `1602_34533` domain: 'cuantascaloriastienen.com' → 'dondeviven.com'
+• `1602_78729` domain: 'estrellasnews.com' → 'espectaculosfans.com'
+• `1602_87804` domain: 'puredrivingmx.com.mx' → 'ladecuadros.com'
+• `1602_92084` name: 'Claudenice Caldeira' → 'Ivan Jose Calzavara'
+• `1602_95517` domain: 'orizzonte.fr' → 'in-bocca.fr'
+• `1602_96667` domain: 'takurououen.com' → 'owaraiouen.com'
+• …and 12 more (see reports/changes.csv)
 
 ### InMobi
 *Added (2)*
-• `8f6b050662a848ae8e9aa4472fd2d88d` USAYA Co., Ltd. | usaya.jp | PUBLISHER
-• `f722857715704dc282c9fb052763504a` Friendship 4 U Pte. Ltd. | friendship-4u.com | PUBLISHER
+• `2d851954f00348f7b0819e3e7f78845c` Linkareer | timespread.co.kr | PUBLISHER
+• `dd4f4f927c124b4db444b627b2dc133e` DAB Games Private Limited | zappchess.com | PUBLISHER
 *Removed (2)*
-• `b9bd719c27764e0cb42cca2dab06b966` Joy Leap Tech Limited | joyleapdigital.com | PUBLISHER
-• `c581e6f765904c7a8d5a6e138fcc5a05` SCALEX PRIVATE LIMITED | stepxhealth.in | PUBLISHER
+• `7847808459f443ee9de2f2b36163527c` Twitch 3P | amazon.com | PUBLISHER
+• `8dd1ee6e4d304fbeb82cd34a3ab6d159` Pragma Ad Solutions Limited | beesads.com | PUBLISHER
+*Changed (2)*
+• `06fa9de0e7164c949d9f0980213de8fe` name: 'Sciplay Games Turkey Yazilim Gelistirme A.S.' → 'SCIPLAY GAMES, LLC'
+• `bef5da4ef6a9452ba79d3d4bdcd05a71` seller_type: 'PUBLISHER' → 'BOTH'
 
 ### Ogury
-*Added (1)*
-• `ec4065af-2c62-4bad-bc1d-2875c937290d` TRACE GLOBAL | trace.tv | PUBLISHER
-*Removed (3)*
-• `086233d2-e8a8-44fc-907b-f0752e1c85de` Venatus Media Limited | venatus.com | INTERMEDIARY
-• `4a9bfbff-0e01-4e6a-b6a9-3beda03058d7` PT. Arkadia Media Nusantara | suara.com | PUBLISHER
-• `555047b0-95bc-453c-948e-59c3525efbb3` Monou Entertainment | monou.gg | PUBLISHER
-*Changed (5)*
-• `082ba6e0-5609-46b4-ad40-6dc4a0ff0e6f` domain: 'cosmo.co' → 'kaik.ai'; seller_type: 'INTERMEDIARY' → 'PUBLISHER'
-• `555d2b28-573a-4c00-8fdb-bbefd6c2fb22` seller_type: 'INTERMEDIARY' → 'PUBLISHER'
-• `8a87d9a2-7699-437a-b201-0cfa19426582` seller_type: 'BOTH' → 'PUBLISHER'
-• `98a148e5-c5d2-4084-a615-01ee30cf2349` seller_type: 'INTERMEDIARY' → 'PUBLISHER'
-• `d8b20c80-8042-40d6-8b65-e9056201961d` seller_type: 'BOTH' → 'PUBLISHER'
+*Added (3)*
+• `392841078f03f44ba0d749fa1942e75c` Two Way Media | twowaymedia.co.uk | PUBLISHER
+• `a78d2a22-a6e4-4411-a14a-45d89e46070d` TheSmartLocal Pte Ltd | thesmartlocal.com | PUBLISHER
+• `ceef2c85-d3b2-4538-9549-13e30ba6b4b7` TANTV | tantvstudios.com | PUBLISHER
+*Removed (2)*
+• `e94979c5-c4ca-4ef2-9f8b-97ab0f14d661` Editorial Animal S de RL de CV | criteriohidalgo.com | PUBLISHER
+• `f0f12228b66c6f9e4f8471bc93be1791` Next Media Solutions | rmcbfm-ads.com | PUBLISHER
 
 ### 33Across
-*Added (1)*
-• `25d4b63df10ea3481c` Camino Labs | camino-labs.com | INTERMEDIARY
+*Changed (1)*
+• `25d4b63df10ea3481c` seller_type: 'INTERMEDIARY' → 'BOTH'
 
 ### Seedtag
-*Added (1)*
-• `6af47e4519dedd251dad015c` Appstock LTD | app-stock.com | BOTH
-*Changed (2)*
-• `662fa2d01536ec000762189d` name: 'THIAGO STANISCI GOMES' → 'E 2 COMUNICACOES BRASIL LTDA'
-• `688b6ef2955f2e0007e8002c` domain: 'tenga.com' → 'tegna.com'
-
-### Triton Digital
-*Removed (1)*
-• `67833` Empresas Pioneiras | — | PUBLISHER
+*Added (2)*
+• `698c8c01e6eaf30007a4177e` UNIFAST MEDIA EUROPE | https://unifastmedia.com | PUBLISHER
+• `6b0585ccda37fcf141ce2a5d` Aceex Sp. z o.o. | aceex.io | INTERMEDIARY
 
 ### Index Exchange
-*Added (3)*
-• `222194` ALAYANS MEDIA, S.L. | alayans-media.com | BOTH
-• `222254` Market Pulse Technologies Private Limited (via Google OB) | google.com | INTERMEDIARY
-• `222264` Ibt Media Ltd | ibtimes.co.uk | PUBLISHER
-*Removed (7)*
-• `184118` Hearst Corporation | hearst.com | PUBLISHER
-• `188449` Daily Kos | dailykos.com | PUBLISHER
-• `189070` Kiosked Information Systems LTD (via Google OB) | google.com | INTERMEDIARY
-• `189245` Cox Automotive | autotrader.com | PUBLISHER
-• `190688` The Daily Dot | dailydot.com | PUBLISHER
-• `191875` Lagardere Publicite News | lejdd.fr | PUBLISHER
-• `200724` Associated Broadcasting Company Private Limited | tv9hindi.com | PUBLISHER
+*Added (2)*
+• `222284` GamoVation B.V. | gamovation.com | PUBLISHER
+• `222294` Politico | politico.com | PUBLISHER
 
 ### ⚠️ Yieldmo
 Download failed — kept previous snapshot.
